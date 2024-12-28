@@ -735,17 +735,6 @@
   
    {
      
-        "title"    : "Tijd-lijn",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/v-vrij/timeline%20copy.old",
-        "date"     : "",
-        "content"   : "<head>\n    <link rel=\"stylesheet\" href=\"{{ site.baseurl }}/css/journal.css\" media=\"screen\" />\n</head>\n<body class=\"timeline\">\n    <div class=\"archive\">\n      <h1 class=\"archive-title\" style=\"display:inline-block;\"> Tijd-lijn </h1>\n\n\n<div class=\"timeline\"> {% for entry in site.timeline %} \n<div class=\"timeline-step\"> \n<h2><a href=\"{{ entry.url }}\">{{ entry.title }}</a> ({{ entry.year }})</h2> \n<img src=\"{{ entry.image }}\" alt=\"{{ entry.title }}\"> \n<p>{{ entry.abstract }}</p> \n<a href=\"{{ entry.url }}\">Meer Lezen: klik hier.</a> \n</div> {% endfor %} \n</div>"
-     
-   } ,
-  
-   {
-     
         "title"    : ": Tijd-lijn van de VRIJHEDEN &amp;: ERFDEEL:",
         "category" : "",
         "tags"     : "",

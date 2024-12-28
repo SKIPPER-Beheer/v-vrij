@@ -1,4 +1,0 @@
- 
-emoji:
-    src: emoji:
-  src: "/img/emoji/"

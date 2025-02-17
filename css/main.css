@@ -71,7 +71,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: ivory
+    color: ivory;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -441,4 +441,6 @@ body {
 .fa-stack-2x {
  color:  #0d253d;
 }
+
+
 

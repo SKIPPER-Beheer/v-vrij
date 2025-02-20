@@ -83,7 +83,7 @@
   margin: 15px;
   padding: 10px;
   font-size: 35px;
-  line-height: 35px;
+  line-height: 45px;
   font-weight: 600;
   background: rgba(0, 0, 0, 0.17);
   color: orange;
@@ -130,17 +130,7 @@
 .bg-7 {
   background-color: olive;
 }
-/* uitschakeling
-.tijdlijn-content h2, .tijdlijn-content h4 {
-  padding: 10px;
-  color: white;
-  Adjusttextcolorforbetterreadability margin: 0;
-  border-radius: 5px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
-}/*
+
 /* toevoegen van een driehoekige wijzer (naar rechts) */
 .left::before {
   content: " ";

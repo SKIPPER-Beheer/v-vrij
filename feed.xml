@@ -5,8 +5,8 @@
     <description>: GEDACHTEN, MIJMERINGEN EN WEGINGEN VAN EEN SOEVEREIN MET HET SCHRIFT MET EEN BLOG-POST.</description>
     <link>https://veiligenvrij.nl/</link>
     <atom:link href="https://veiligenvrij.nl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 08 Mar 2025 01:32:15 +0100</pubDate>
-    <lastBuildDate>Sat, 08 Mar 2025 01:32:15 +0100</lastBuildDate>
+    <pubDate>Sat, 08 Mar 2025 01:50:41 +0100</pubDate>
+    <lastBuildDate>Sat, 08 Mar 2025 01:50:41 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -625,9 +625,9 @@ en als de dood het gevolg is van handelingen die zijn gepleegd in strijd met dez
 &lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A7&quot;&gt;7.&lt;/a&gt;
     &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt; Vrij naar: Star Wars: waar The Emperor zegt:
-        &lt;ul style=&quot;list-style-type: none; margin:0; padding:0;&quot;&gt;
-            &lt;li&gt; &lt;a href=&quot;https://youtu.be/zdPg51IuEmM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;The Force is strong with you&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;iframe width=&quot;210&quot; height=&quot;120&quot; src=&quot;https://www.youtube.com/embed/zdPg51IuEmM&quot; title=&quot;The force is strong with you&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#7&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;&lt;/li&gt;
+        &lt;ul style=&quot;list-style-type: none; left-margin:0; padding:0;&quot;&gt;
+            &lt;li style=&quot;width:30%;&quot;&gt; &lt;a href=&quot;https://youtu.be/zdPg51IuEmM&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;The Force is strong with you&lt;/a&gt;&lt;/li&gt;
+            &lt;li style=&quot;width:30%;&quot;&gt;&lt;iframe width=&quot;210&quot; height=&quot;120&quot; src=&quot;https://www.youtube.com/embed/zdPg51IuEmM&quot; title=&quot;The force is strong with you&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#7&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/cite&gt;    
 &lt;/div&gt;

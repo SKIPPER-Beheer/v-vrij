@@ -1,0 +1,264 @@
+﻿---
+layout: timeline-entry
+title: ": Staat van Oorlog:"
+year: 1940 
+image: "/timeline/assets/tl-00026.jpg"
+header-img: "/timeline/assets/tl-00026.jpg" 
+post_url: "/timeline/YEAR-1941"
+abstract: Op 19 April een Staat van Beleg, of Staat van Oorlog afgekondigd. Een dergelijke verklaring heeft grote gevolgen voor de rechtspositie van burgers. Op 10 mei volgt de invasie. Wilhelmina roept op tot het doen van de plicht op de plaats waarop hij is gesteld. Zij zou de hare doen, hetgeen een op 15 mei illusie bleek. Winkelman droeg het civiele bestuur over aan de Duitsers. 
+---
+
+<section>
+    <h3 style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Inhoud:</h3>
+    <ol>
+        <li><a href="#C1">Militair Recht & Dreiging:</a></li>
+        <li><a href="#C2">Kolen, Kohle und Kohl:</a></li>
+        <li><a href="#C3">Gevolgen in rechte en moraal:</a></li>
+        <li><a href="#C4">Hoofdpunten:</a></li>
+        <li><a href="#C999">Voetnoten</a></li>
+    </ol>
+    <br>
+    <br>
+    <h2 id="C1" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Militair Recht & Dreiging:</h2>
+</section>
+<br>
+
+
+
+Wat hier van belang is dat het Koninkrijk, dat wil zeggen, de Kroon deze staat afkondigt. Militair recht gaat nu gelden. 
+
+Vooruit blikkend hierop, deze staat is ook door de Kroon afgekondigd in september van 1944. 
+
+Dit zijn dus staatsrechtelijke handelingen die de civiele bevolking onderwerpt aan een andere wetsregeling dan voorheen. Het belang van een dergelijke verklaring heeft tevens te maken met wat men noemt: __Soevereine Rechten__ enerzijds, en anderzijds om de bevolking te hinderen militaire voorbereidingen te frustreren en de legale basis te hebben vrijheidsbeperkingen op te kunnen leggen, en zelfs hele bevolkingen te kunnen verplaatsen ten einde het niet combattieve deel te beschermen. Dit is onlangs gebeurd in de regio rondom Zhudhe in Rusland, of rondom Kharkov in de Oekraïne.
+
+In de loop van de tijdlijn komt dit begrip: Soevereine Rechten vaker voor. Door dit soort van handelingen laat een Vorst zien ten overstaan van de wereld, dus in internationaal recht, een claim op het landsbestuur te hebben. Met de vlucht van Wilhelmina naar Engeland wordt dit een belangrijk punt van aandacht. Immers, het Koninkrijk c.q. de Kroon is hier om onze Soevereiniteit, vrijheid en uitbuiting door Vreemde Machten te beschermen (zie 1e en 2e proclamatie 1813-1815)  
+
+Een verklaring van de staat van Beleg, staat van Oorlog of Militair Gezag of Nood-Toestand, kunnen voor een gebiedsdeel worden afgekondigd, of voor het hele land waarover de Kroon de scepter zwaait.
+
+
+<img src="{{ site.baseurl }}/timeline/assets/tl-00027.jpg"> 
+
+De verklaring van 19 april 1940 is niet de eerste verklaring. In 1939, als gevolg van het "niet-aanval"-verdrag tussen het Duitse Rijk en de Sovjet Unie, werd al een algehele mobilisatie afgekondigd en bijvoorbeeld Den Helder onder Militair bestuur geplaatst. Daarnaast was er natuurlijk de aanval en opsplitsing van Polen in twee delen, tussen een Duits gecontroleerd deel en een Sovjet gecontroleerd deel.
+
+De kwestie van de afkondiging en het instellen van militair bestuur, is echter, zoals gewoonlijk in Nederland, omgeven met allerlei mitsen en maren. De PvdA (hedendaagse naam) Defensie-minister weigerde bijvoorbeeld bepaalde regels die tot het militaire bestuur behoren, juist niet toe te staan. Dit leidde tot een geschil die de opperbevelhebber Reynders de positie kostte en leidde tot de aanstelling van Winkelman. Uiteraard is Winkelman gevierd als een goede organisator en een loyale lakei van het Koninklijke Huis. Reynders claimt in zijn verhaallijn behoorlijk in de wielen gereden te zijn, enerzijds doordat het spioneren op Nederlandse voorbereidingen door de mitsen en maren van de afkondiging van het militaire gezag in de kaart speelden, en later ook bewaarheid zijn geworden, anderzijds doordat er allerlei mobilisatieclubs (onder socialistische auspiciën) die Reynders trachtte in te perken. Dit leidde tot een politiek conflict en werd zijn positie onhoudbaar. Dit ruikt naar een opzetje ten einde hem te lozen en een ander in zijn plaats te stellen; Een Hollands breed Paleis drama.
+
+Het "niet-aanval"-verdrag leek grote geopolitieke consequenties te hebben, omdat door dat verdrag de weg naar Nederland open leek te liggen, hetgeen bevestigd dat er van neutraliteit geen sprake was, maar van afspraakjes om militair samen te werken tegen Duitsland. Immers, was men echt neutraal, behoeft men een aanval niet te vrezen, al was het maar uit economisch eigenbelang van de aanvaller. De berekening wordt anders indien een land als Nederland, met de ligging die het heeft, juist niet neutraal is. Dan wordt het een "staging area" voor vijandelijkheden, bijvoorbeeld als basis voor Britse troepen. Dit feit echter is niet slechts achteraf te kennen, maar werd blijkbaar zeer goed begrepen.
+
+<br>
+<br>
+<section>
+    <h3 id="C2" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Kolen, Kohle und Kohl:</h3>
+</section>
+<br>
+
+
+Dit blijkt ook uit de ontwikkelingen van de verdragen na de Vrede van Versailles, en men probeerde elkaar de vliegen af te vangen. Er was een verdrag: 4-machten verdrag, waarin de Uk feitelijk de grenzen van het Duitse Rijk en Frankrijk moest garanderen rondom de regio: Saarbrücken, Elzas-Lotharingen. Dit was vlak nadat het Ruhr-incident had plaatsgevonden. Dit schept uiteraard een bizarre situatie en laat zeer goed zien hoe de “League of Nations” totaal impotent was, en er feitelijk maar 1 vraag was: hoeveel staal krijg ik voor mijn kolen. (Overigens de Duitsers spreken nog steeds van Kohle als duiding van geldmiddel). Tevens zijn er in 1922 te Geneve onderhandelingen geweest tussen Frankrijk en Duitsland voor een Unie. Frankrijk wilde daar niets van weten. Frappant is dus de post WO-II ontwikkeling omtrent de EGKS, dat, via de EEG, uitmondde in de EU met als as: Duitsland-Frankrijk. De ironie!
+
+En sedert begin Maart 2025, ligt er het Franse voorstel op tafel, om het Franse Kernwapen arsenaal te gebruiken als nucleaire paraplu, ten einde Rusland buiten te houden. Net zo goed kan dit gelden voor Amerikaanse aspiraties. Dit doet denken aan het Duitse voorstel van 1922, waarin Duitsland en Frankrijk een Unie zouden aangaan, Duitsland voor de economische kracht zou zorgen en Frankrijk voor de militaire. Oude wijn in nieuwe zakken, die tot falen gedoemd zijn. (zie ook: Zoll-Verein, Latijnse Unie). Terug naar de “oplossingen” van het “inter-bellum”.
+
+Nu kan je je afvragen HOE de UK grenzen op het continent Europa kan garanderen zonder toegang tot de plek waar de schending plaatsvindt? Hoe doe je dat logistiek gezien? Kijk nog eens naar een kaart. En vraag je dan af: hoe werkelijk die zogenaamde neutraliteit van Nederland was? En bedenk ook: Het Koninkrijk der Nederlanden is een creatie bij de gratie van Britse goedkeuring als bufferstaat (zie Vrede van Wenen).
+
+<section>
+    <div class="img-magnifier-container">
+        <img src="{{ site.baseurl }}/timeline/assets/tl-00028.jpg" width="100%"/>    
+        </div>
+</section>
+
+Uiteindelijk belandde het Britse Expeditie leger in Frankrijk en België, het Franse leger o.a. in Zeeland en Brabant ten einde niet Zeeland maar Antwerpen als haven te beschermen. Er zijn wel wat Engelse troepen in Nederland geweest, maar dat was om te helpen het Goud en Diamanten van de Nederlandsche Bank "in veiligheid te brengen". 
+
+Neem ook notie van de datum van de kaart: 31-12-1937. Dit is een belangrijke datum. Die komt later in 1945 in de tijdlijn terug. 
+
+
+Er is nog een aspect. Na de 1e Wereldoorlog, moest Europa als geheel opnieuw opbouwen. Kijk voor de gein eens door dit document:<a href="https://ourfiniteworld.com/2017/12/19/the-depression-of-the-1930s-was-an-energy-crisis/" target="_blank" rel="noopener noreferrer">The Depression Of The 1930s Was An Energy Crisis</a> vanuit het gezichtspunt van het gebruik van kolen. Interessant is, dat Italië vooraleerst gericht was op goede relaties met de UK. Echter, omdat de kolen productie in de Uk verminderde was Duitsland de meest aangewezen leverancier. En dus zie je een heroriëntatie van alliantie van de Uk naar het Duitse Rijk. De genoemde 4-machten verdrag, probeerde dus de kolen behoefte te dekken. Uit het stuk blijkt ook dat wereldwijd de kolen productie omlaag ging. Landen die hun eigen kolen productie hebben, zoals Nederland, Frankrijk, België, Duitsland hadden minder last van dit vraagstuk. Hierbij teken ik aan dat België zocht zijn kolen voorraden te vermeerderen door Zuid Limburg onder controle te krijgen. Maar kijk eens naar de volgende kaart, en vraag je dan af, wat de reden is van de land concessies die voortvloeiden uit de 1918 Vrede van Versailles:
+
+<img src="{{ site.baseurl }}/timeline/assets/tl-00029.jpg" width="100%"/> 
+
+In geel heb ik gemerkt welke kolen-voorraden moesten worden afgestaan in 1918. Let wel, kool was een strategische hulpbron. Zonder kolen zou er geen industrie zijn. En zonder industrie geen werk, warmte in huizen, enzovoorts. Zonder kolen, glijdt een land af in economische malaise, rijp voor de communistische machtsovername, een dreiging die de Sovjet Unie, als zetel van de internationale socialistische revolutie op diplomatieke en 5e-Kolonne-achtige wijze trachtte over te brengen. En niet onverdienstelijk. In China lukte dat prima met de Kwo Min Tang en Mao-commies. Beide groepen waren iets anders geschakeerde communisten. Kwo Min Tang ging over in het huidige Republiek China i.e. Taiwan of Formosa, en de Mao-commies werden na de “Lange Mars” de Chinese Communistische Partij, de CCP van XiJinping.  Deze dubbele aanvalsroute van het internationale socialisme is wijdverbreid, en lijkt op de Hegeliaanse dialectiek in combinatie met het financieren van 2 zijden van een strijd. 
+In Beieren, Duitsland waren er zelfs twee groepen communisten die in een burger-oorlog waren verwikkeld voor de oppermacht in hun socialistische utopie. 
+
+Deze achtergrond en omgevingsschets geeft een extra dimensie aan de overweging een “Europese Gemeenschap voor Kolen en Staal” af te spreken nadat de 2e Wereldoorlog was gestaakt met de totale overgave van het Duitse Leger in 1945. En geven tevens een extra dimensie aan de huidige zoektocht van de EU naar eigen energie-bronnen, de veel geprezen: Duits-Franse As (Giscard d'Esteng / Helmuth Kohl), en de hele rauwe geschiedenis rondom de sedert 2008 geïnitieerde Oekraïne oorlog en de druk om dit land deel te maken van NAVO en de EU, inclusief MH-17 en het "cheerleaden" voor een kleurenrevolutie in dat land door Timmermans (PvdA) en Hans van Balen (VVD), maar ook de rol die Nederland speelt in dit vraagstuk van gas.
+
+Extra kruidig wordt het wanneer bedacht wordt, dat de BBB-ideologie van Schwab's W.E.F., berust op het idee van de creatie van een energie-crisis en het neerleggen van de grondslagen voor energie tekorten onder het mom van klimaat-veranderingen de Groene Agenda, om zodoende het Marxistische “You’ll own nothing and will be happy” nieuwe mens tot stand te brengen. Uiteraard speelt de door Hariri gewenste geleidde menselijke evolutie, i.e. transhumanisme en de mRNA techniek verrijkte spuiten, ook een rol. Wederom: oude vergane wijn in nieuwe zakken. 
+
+
+<section>
+    <h3 id="C3" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Thee-blaadjes lezen:</h3>
+</section>
+
+Het was een zenuwachtige tijd. Een voorbeeld daarvan is te vinden in het boek: De eerste Duitse Adelaar viel te Vucht, geschreven door Flor Vanloffeld Het laat zien dat op 10 januari 1940 de volledige oorlogsplannen, "Fall Gelb" genaamd, al bekend waren als gevolg van het neerstorten van een militair toestel met alle plannen aan boord. Of zoals het kleurrijk in de lokale tong woerd gezegd:
+> In Vuch is e vleegmasjien aafgevalle, t'is ne Pruusj. 
+
+Een aantal dagen later wordt het Koninklijke Nederlandse Opperbevel ingelicht over de plannen, mede aangestuurd door berichten van de Belgische Ambassadeur in Berlijn. Winkelman gelooft er geen snars van en vertrouwd op de "neutraliteit" welke feitelijk wordt ingegeven door de diverse Britse verzekeringen. Dan is natuurlijk de brief van Winkelman aan diverse militaire representanten in België, Verenigd Koninkrijk en Frankrijk bijzonder. In maart van 1940 verzocht hij om militaire bijstand, en die brief mocht niet worden geopend VOORDAT een aanval op Nederland een feit zou zijn.
+
+<img src="{{ site.baseurl }}/timeline/assets/tl-00032.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+
+Tekst komt van :  <a href="https://trove.nla.gov.au/newspaper/article/62934382" target="_blank" rel="noopener noreferrer">Australisch Kranten Archief
+> WINKELMANN'S ARREST.  
+Dutch Revelations.  
+LONDON, July 18.  
+Netherlands news agency reveals  
+the Dutch Army Commander-in-Chief  
+(General Winkelman), was
+seized by the Germans on July 3 and  
+sent to a concentration because  
+he had circularised his troops ex  
+posing a German White Book fraud  
+alleging Belgium and Holland had  
+violated their neutrality.  
+The White Book Included a letter  
+from General Winkelmann, dated  
+March 23, instructing Dutch repre-  
+sentatives in Belgium, Britain and  
+France to inquire what military co-  
+operation those countries could offer  
+the Netherlands. The White Book did  
+not mention this letter was sealed and  
+accompanied by Instructions that tho  
+seal sbou.d not be broken before the  
+German attack on Holland. This In-  
+struction was carried out  
+General Winkelman circularised
+officers and non-commissioned  
+explaining the facts and was 
+arrested the same day. 
+
+Het laat maar zien dat een geclaimde "strikte neutraliteit" niet altijd zo behoeft te zijn, of te worden beschouwd. Dit gegeven laat ook de stelling toe dat er reeds kennis was van de plannen: "Fall Gelb".
+
+
+Op 10 mei volgt de Aanval van het Duitse Leger op het Nederlands grondgebied. In de kranten wordt uiteraard deze aanval zwaar veroordeeld en men poogt een narratief van neutraliteit te pushen. Echter, de veiligheidsdiensten werkten nauw samen met de Britse, en die neutraliteit bleek slechts oppervlakkig.
+
+<img src="{{ site.baseurl }}/timeline/assets/tl-00030.jpg" width="100%"/>
+
+Hoewel het Nedelrandse Leger zwaar de "underdog" was in termen van logistiek, materieel, werd er wel heftig en heldhaftig geknokt rondom de Grebbeberg en Kornwerderzand. Zo zijn er verhalen van oud KNIL-lers, die zelfs klewangs gebruikten en koppen aan het snellen waren. 
+
+Een mooi voorbeeld van veroudering: De luchtmacht was geïnteresseerd in de aankoop van de Fokker D XXI, echter dat moest feitelijk wijken voor andere belangen. En dit is een herhaling wat we ook zagen voor 1780, waarin de marine werd verwaarloosd ten behoeve van nadere belangen. En dat schept vervolgens de omstandigheden die uitgenut worden door machten die wel moderniseren. Daarnaast ging de aandacht vooral uit naar de belangen in Nederlands-Indië en werd modernisering hier te lande als niet zo belangrijk ingeschat. 
+
+Wil je een beter overzicht omtrent de opbouw van het leger in Nederland, kijk dan hier: [Test of Battle - Holland](https://www.testofbattle.com/files/V-3%20Holland%20v1.pdf)
+
+Zo heeft Wilhelmina gebruik gemaakt van de Lend-Lease-Act van de Verenigde Staten, waarbij Curaçao onder Amerikaanse toezicht werd gesteld, mede om de belangrijke vliegtuigbrandstof productie te beveiligen.
+
+Zo schrijft de naval-encyclopedia.com:
+>On the other hand, Holland received the following lease-leases: First of all, two British class N destroyers, renamed Van Galen and Tjerk Hiddes, a corvette of the Flower class, the ex-Carnation Friso and the River type Van Nassau class ex-Ribble, the Queen Whilemina ex-PC468 sub-chaser. British Admiralty MMS coastal minesweepers will also be transferred, 18 vessels, also 6 US Vosper type motor torpedo boats (Tm22-37, but 11 in fact), and other British type White and Vosper leased from 1942 (11). But above all, Holland operated from 1943 two oil tankers escort aircraft, the Gadila and Macoma.
+Units transferred or received between 1940 and 1945: 1 Cruiser, 3 Destroyers, 2 Submersibles, 22 MTBs, and 24 Misc.
+
+Ik noem dit omdat dit wederom met schuldposities te maken heeft. En omdat het aantoont dat het Koninkrijk een rol te vervullen had waartoe ze niet was uitgerust: te klein en te onbeduidend, hoewel op zekere punten de top kwaliteit was, zoals het geval was met gestabiliseerde kanonnen op bepaalde oorlogschepen. Echter, het was te weinig, te laat en de verspreiding van de gebiedsdelen: te ver uiteen. Hierdoor moeten er keuzes gemaakt worden. En dan valt op dat het vaderland er bekaaid vanaf komt, omdat dit een kleine man in een te grote broek is.
+
+Uiteraard, achteraf is dit wellicht makkelijk vast te stellen. Echter, wanneer we naar de financiële lasten en politieke ontwikkelingen kijken, had ook een andere keuze gemaakt kunnen worden. Immers, internationale verdragen gaan voor. En wanneer de kijk slechts in belangrijke mate bepaald wordt door internationale verhouding, raakt de lokale kijk uit het zicht. Terwijl de beslissing rondom het jaar 1780 was de focus te hebben op landmacht i.p.v. zeemacht, lag in deze tijd de focus op zeemacht, ten koste van landmacht en luchtmacht.
+
+<br>
+<br>
+<section>
+    <h3 id="C4" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Gevolgen in rechte en moraal:</h3>
+</section>
+<br>
+
+
+De oproep die werd gedaan door de Kroon, om de plicht te vervullen, werd wel degelijk met "gusto" uitgevoerd. Dan zou je verwachten, zeker omdat die oproep vergezeld ging van de opmerking: ieder op zijn plaats, dat dit ook voor hare taaiemeid zou gelden. Op 15 mei viel dan het doek.
+
+Lou de Jong, in zijn boeken over die periode<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>, bevatten een aantal interessante gezichtspunten: 
+1. Vanwege de hachelijke situatie werd er al snel in de burelen van Staat in met rook gevulde kamers koortsachtig gesproken omtrent de vraag __HOE__ de beperking van de grondwet om de zetel van het Rijk niet buiten het Nederlands grondgebied in Europa te verplaatsen, kon worden omzeild en een constitutioneel vraagstuk af te wenden. Die vraag bleef onbeantwoord.
+2. Vooraf aan de aanval was reeds door de Staat geregeld dat de koninklijke familie Asiel zou krijgen in de UK. Telegrammen van dien aard zijn verstuurd en ontvangen.
+
+ <img src="{{ site.baseurl }}/timeline/assets/tl-00031.jpg" width="100%"/>
+
+3. Generaal Winkelman kreeg op het laatste nippertje mondeling toegevoegd, dat hij het civiele bestuur in handen kreeg. 
+
+> Met de ministeriële woorden dat de secretarissen-generaal hun orders nu van Winkelman moesten afwachten - tijd voor toespraken was er niet - kreeg de installatie van de generaal als plaatsvervanger van Wilhelmina haar beslag. Met diens uitdrukkelijke instemming (‘Jullie moeten het werk doen’) verklaarden de secretarissen-generaal zich vervolgens bereid tot loyale samenwerking met de bezetter mits er geen anti-joodse politiek zou worden gevoerd, het vijandelijke militaire bestuur het landoorlogsreglement als bindend zou erkennen {Ga naar voetnoot10} en de NSB niet aan de macht zou komen<sup class="footnote-ref" id="2"><a rel="footnote" href="#A1">2</a></sup>.
+
+Het is wat. Een van de belangrijkste stappen, overdracht van de machten als staatshoofd, wordt met een mondelinge mededeling zonder enige ceremonie gedaan ter elfder ure op de kade voordat men inscheepte.
+
+4. De Koningin en de ministers, de Kroon dus, gingen met een Engelse boot niet naar Zeeland, zoals het verhaal gaat dat Wilhelmina in opperste staat van opwinding wilde, maar naar Engeland omdat de Engelse Kapitein dat onder de gegeven omstandigheden veiliger achtte. Met andere woorden: hij heeft dan de facto de Kroon ontvoerd, en de daaraan hechtende rechtsgevolgen zouden dan niet de schuld van de Kroon zijn, maar jammerlijk overmacht. 
+5. De angst dat er pogingen ondernomen zouden worden om de Kroon in gevangenschap te brengen, en zelfs te vermoorden, de perceptie van dreiging dus, was niet van de lucht. Hetgeen de punten 1 - 4 weer zou ondersteunen.   
+
+Dit verhaal komt natuurlijk in het licht van de latere ontwikkelingen zeer goed uit. Niettegenstaande dat, de bijnaam: __koninging__ ontstond, en die vlucht in het zicht van de vijand had een demoraliserend effect. 
+
+De vlucht was dus niet nodig. De Deense en Belgische Koningen bleven op hun plek, en hun is niets geschiedt. De Franse Republiek werd voortgezet onder Petain. Maar omdat die vlucht een feit was, was de Staat der Nederlanden zonder staatshoofd. Derhalve werd er een Rijkscommissaris benoemd, de ascetische Oostenrijker Seyss Inquart. Dit houdt niet in dat Nederland toen volkenrechtelijk deel werd van het Duitse Rijk. Verre van.
+
+
+__Internationaal Recht: Ballingschap__:
+
+Op Jstor.com zijn er diverse beschouwingen te lezen of deze unieke situatie, die over het algemeen door Niet Nederlanders vanuit een brede internationale context worden bezien, en absoluut pro-"Rules Based International Order" zijn. Toch kan dit wel inzicht geven in de kwestie: strijdig met de Grondwet en de eed daarop handelen.
+
+Zo schrijft Oppenheimer dat tijden de 1e Wereldoorlog, zowel België als Servië hun zetel van de regering hadden verplaatst, en dat wettelijke problemen hierover onbekend zijn. Vervolgens beschrijft hij de aanwezigheid van 8 regeringen in ballingschap (Governments in Exile)
+
+De 1771 Encyclopedia Brittanica verwijst bij dit woord: "Exile", naar "Banishment", of Ban. De Paus heeft onlangs Kardinaal Vigano geëxcommuniceerd, en dus in de ban gedaan, de straf voor ongehoorzaamheid. Het is interessant om op te merken dat rondom 1780 het inzetten van een ban door diverse overheden ook in Nederland werd toegepast. Zie hiervoor: Joan van de Capellen, of eerder terug: Hugo de Groot en Slot Loevesteijn als sprekende voorbeelden. Echter, allerlei soorten misdaden werden met een Ban beloont, dat kon tijdelijk zijn, tussen 1 - 100 jaar, of permanent. Er is ook zoiets als vrijwillige ballingschap. Dat is wanneer men vlucht voor een bedreiging of dat men weggaat uit onvrede met een staat van zijn in een bepaald land. Anderzijds hebben veel landen een zogenaamde Asielwet.
+
+De 2e uitgave van Blacks Law uit 1910 brengt het woord in verband het maxim die onder Romeins recht gold: 
+>Exilium est patriae privatio, natalis solis mutatio, legum nativarum amissio
+
+Oftewel: Ballingschap is het verlies van het eigen vaderland, de verandering van de grond van geboorte, een verlies van het geboorte/originele recht. 
+
+De 9e uitgave van 2009 is hierin met minder achtergrond informatie anders: 
+* Expulsion from a country, esp. from the country of one's origin or longtime residence; banishment.
+* Forced exile. Compelled removal or banishment from one's native country.
+* A person who has been banished. 
+* A prolonged voluntary absence from one's home country.
+
+Het verschil is een weerspiegeling van de veranderende opvattingen, mede ingegeven door de situatie die dus in 1940 is ontstaan. 
+
+Oppenheimer schrijft verder dat in 1940 diverse regering door vijandige krachten van hun thuisland waren verdreven door door de Uk uitgenodigd werden onder de status van Ballingschap hun hun zetel in de UK te plaatsen.  België is een uitzondering, hoewel nog steeds een constitutionele monarchie, Koning Leopold gaf zich over op 28 mei 1940 en verbleef in gevangenschap. In het geval van Nederland wordt de Koningin de "Chief Executive" genoemd.
+
+Vervolgens verhaalt hij welke Verdragen het Koninkrijk heeft gesloten. Een aantal daarvan zullen hier beneden in een pdf worden getoond. Echter, belangrijk is te vermelden hetgeen Oppenheimer verzwijgt, is dat die verdragen zien op het Koninkrijk ten aanzien van Nederlands-Indië en de West-Indische Koloniën, zoals Suriname, en de Eilanden in die regio. Er worden geen verdragen gesloten ten aanzien van Nederland zelf. Dát kan immers niet, omdat de rechtmatige basis ontbreekt. Wel worden er allerlei besluiten uitgevaardigd en gepubliceerd in het Staatsblad. Echter, de handelingen zien niet op Nederland zelf!
+
+__Invloeden op de Moraal:__
+
+
+De internationale verdrag van 1889 en 1907, genaamd: <a href="https://nsarchive.gwu.edu/sites/default/files/documents/5975791/National-Security-Archive-Convention-Respecting.pdf" target="_blank" rel="noopener noreferrer" rel="noopener noreferrer">Convention (IV) respecting the Laws and Customs of War on Land and its annex: Regulations concerning the Laws and Customs of War on Land. The Hague, 18 October 1907.</a>, waarvan het origineel in het Vredes Paleis te Den Haag gearchiveerd is, vereist dat een bezettende macht moet zorg dragen voor orde en rust en het sociale leven weer opgang dient te brengen en geen wijzigingen mag doorvoeren aan de wetten van het land, tenzij dit niet anders kan. Met de vlucht van de Kroon, en de overgave van Winkelman, waarbij het civiele bestuur werd overgedragen, was er een staatsrechtelijk gat ontstaan, dat moest worden opgevuld. Ik verwijs ook even naar het toetsings-arrest. Let daarbij op de frasen die de Hoge Raad uitslaat ten aanzien van de kwaliteit van de decreten die door Seyss Inquart werden uitgevaardigd<sup class="footnote-ref" id="3"><a rel="footnote" href="#A3">3</a></sup>. Neem ook notie van het feit dat de Hoge Raad Nederland als bezet gebied beschouwd. Dit werd ook zo door de Duitsers beschouwd. Er waren wel plannen voor een Groot Duits Rijk, en middels een volksraadpleging zou de bevolking de kans krijgen zich over lidmaatschap ervan uit te spreken. Echter, in 1943 werd dit in rapporten van Seyss Inquart nog beschouwd als een nachtmerrie omdat de bevolking in het algemeen gedacht werd "nog te masonisch te denken, en niet open te staan voor een op nationaal-socialistisch geschoeide samenleving<sup class="footnote-ref" id="4"><a rel="footnote" href="#A4">4</a></sup>.
+
+Let ook even op de regels uit het oorlogsrecht omtrent verzet, en de label: combattant. Want dit heeft direct invloed op de wijze waarop de Bezetters reageerden op het verzet. Wanneer de civiele bevolking wil deelnemen aan de strijd, dan kan dat. Echter, daartoe dienen ze dan wel deze krijgsordening aan te houden, anders worden ze als criminelen behandeld. Dit hield in, ze moesten herkenbaar zijn aan patches en andere identificatie kenmerken, en mogen zich niet schuldig maken aan sluipmoord. 
+
+Dus, de vlucht had weer invloed op het verzet, die voornamelijk uit de communistische hoek kwam. Bijvoorbeeld, de februari staking, waarbij 1 miljoen mensen de straat op gingen, was een communistische staking. De verhalen van Hannie Schaft en zo, zijn allen communistisch. Logisch, want deze groepen zaten sowieso in de oppositie, kenden een goede organisatie van voor de oorlog, en de meer behoudende delen van de bevolking hadden andere overwegingen:
+1. in bepaalde kringen is het deelgenoot zijn in een koninkrijk een negatief iets. Met weemoed wordt teruggedacht aan de republiek, hetzij de Verenigde 7 Provinciën Republiek of de Bataafse Republiek. 
+2. de meerderheid zal gewaakt hebben over de directe belangen, zoals werk, huis, de kinderen, en dergelijke.  
+3. en uiteraard is er de “anti-bourgeoisie” beweging, zoals die van de communistische partij, die de absolute ineenstorting van het systeem nastreefde. 
+
+Met andere woorden: De Vlucht van Wilhelmina en de ministers, had vergaande gevolgen voor de strijdlust. Het opzetten van de zetel in Londen, in strijd met de grondwet, had vergaande staatsrechtelijke en internationaal rechtelijke gevolgen. Het betekende dat de verbinding tussen Staat en Koninkrijk werd verbroken. Het betekent niet dat Wilhelmina geen Koningin meer was. Dat was ze wel. Immers, Nederlands-Indië, Suriname, de West-Indische eilanden stonden allemaal nog onder haar bestuur. 
+
+Neem notie van dit document met name ten aanzien van de handelingen in rechte ten aanzien van andere landen. Dit gaat over afspraken, gemaakt in 1940 door het Koninkrijk der Nederlanden.  Kijk voor jezelf eens op bladzijde 6. Gebruik dan CTRL + F en zoek op "Guilder" . De Zweedse deal met de Riskbank is hier niet van belang. Wel is van belang, dat de focus niet om de NEDERLANDSE Gulden gaat, maar om de Javaanse Bank en de Indische Gulden als ruilmiddel in dit internationale forum.
+
+<object data="{{ site.baseurl }}/timeline/assets/pdf/UN-accords-monetaires-1943.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+Neem ook notie van het feit dat de wisselkoersen werden vast gepind, tenzij er multi-laterale nieuwe afspraken werden gemaakt. Tevens valt op dat deze "verdragen" pas in 1947 bij be Verenigde Naties zijn gearchiveerd. Dit zijn handelingen van een Koninkrijk, maar hebben met Nederland proper niets te maken. De gehoorde stelling dat Wilhelmina dus geen Koningin meer zou zijn, dient derhalve naar de vuilnisbak verwezen te worden. 
+
+In de tijdlijn van 1941, 1942 en 1944 en 1945 worden verdere gegevens besproken die een ernstige invloed hebben op de rechtspositie, waarmee nog meer lopende stellingen als illusie moeten worden benoemd.
+
+<br>
+<br>
+<section>
+    <h3 id="C5" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Hoofdpunten:</h3>
+</section>
+<br>
+
+Uit het voorgaande komen dus een aantal zaken naar voren: 
+1. Nederland is een eigen staat, niet meer onderworpen aan het Koninkrijk der Nederlanden. 
+2. Het Koninkrijk der Nederlanden staat op zichzelf, en is niet meer verbonden met de Staat. Wilhelmina blijft Koningin.
+3. Nederland zelf is geen onderdeel van het Duitse Rijk. 
+
+
+
+<hr style="color: rgba(232, 202, 135, 0.98); width: 25vw;">
+<a id="C999" style="color:rgba(232, 202, 135, 0.98)">Voetnoten:</a>
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"> <a href="https://www.niod.nl/publicaties/het-koninkrijk-der-nederlanden-in-de-tweede-wereldoorlog" target="_blank" rel="noopener noreferrer">KdN in de 2e Wereldoorlog</a></cite>
+    <a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A2">2.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"> <a href="https://www.dbnl.org/tekst/_bij005199001_01/_bij005199001_01_0013.php#238" target="_blank" rel="noopener noreferrer">Bijdragen en Mededelingen betreffende de Geschiedenis der Nederlanden. Deel 105</a></cite>
+    <a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A3">3.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"> <a href="https://www.jstor.org/stable/2192751" target="_blank" rel="noopener noreferrer">Governments and Authorities in Exile </a>van de hand van: F. E. Oppenheimer, lid van de Inner Temple, London.</cite>
+    <a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A4">4.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"> <a href="https://semantius.nl/uitspraken/ECLI:NL:HR:1942:244" target="_blank" rel="noopener noreferrer">Toetsingsarrest: ECLI:NL:HR:1942:244</a></cite>
+    <a style="color: orange;" class="footnote-return" href="#4">&#32;&#8617;</a>
+</div>
+

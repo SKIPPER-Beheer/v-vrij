@@ -5,8 +5,8 @@
     <description>: GEDACHTEN, MIJMERINGEN EN WEGINGEN VAN EEN SOEVEREIN MET HET SCHRIFT MET EEN BLOG-POST.</description>
     <link>https://veiligenvrij.nl/</link>
     <atom:link href="https://veiligenvrij.nl/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 22 Mar 2025 14:00:51 +0100</pubDate>
-    <lastBuildDate>Sat, 22 Mar 2025 14:00:51 +0100</lastBuildDate>
+    <pubDate>Sat, 22 Mar 2025 14:29:10 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Mar 2025 14:29:10 +0100</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -2864,7 +2864,7 @@ Zoals je kan zien bij de WOORD-CLAIMS &lt;sup class=&quot;footnote-ref&quot; id=
         <category>Mens</category>
         
         
-        <category>human-design</category>
+        <category>human_design</category>
         
         <category>psychologie</category>
         
@@ -10447,7 +10447,7 @@ Erik Hofstra &amp;amp; Team Veilig&amp;amp;Vrij&lt;/p&gt;
         <category>Mens</category>
         
         
-        <category>Recht</category>
+        <category>recht</category>
         
       </item>
     

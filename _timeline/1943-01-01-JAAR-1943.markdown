@@ -1,0 +1,66 @@
+---
+layout: timeline-entry
+title: ": Verdere voorbereidingen voor Overname:"
+year: 1943
+image: "/timeline/assets/tl-00037.jpg"
+header-img: "/timeline/assets/tl-00037.jpg"
+post_url: "/timeline/YEAR-1943"
+abstract: "Onder de vlag van de ALLIED POWERS ACT, verkrijgt het Koninkrijk het recht om een High Maritime Court op te zetten. Aldaar wordt een zeer omstreden rehter benoemd:" 
+---
+
+<p>Onder de vlag van de ALLIED POWERS ACT, verkrijgt het Koninkrijk het recht om een High Maritime Court op te zetten. Aldaar wordt een zeer omstreden rehter benoemd</p>
+
+<p>section&gt;
+    &lt;h3 style="color: rgba(232, 202, 135, 0.98); font-weight: bold;"&gt;Inhoud:&lt;/h3&gt;
+    &lt;ol&gt;
+        &lt;li&gt;<a href="#C1">Maritime High Court:</a>&lt;/li&gt;
+        &lt;li&gt;<a href="#C2">Voorbereiding Militair Bestuur:</a>&lt;/li&gt;
+    &lt;/ol&gt;
+    <br />
+    <br />
+    &lt;h2 id="C1" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;"&gt;Maritime High Court:&lt;/h2&gt;
+&lt;/section&gt;</p>
+
+<p>Onder het archief KEW nummer: HO 45/19801 is de volgende opmerking geplaatst:</p>
+<blockquote>
+  <p>Netherlands Maritime High Court
+established by the Netherlands Government in
+the United Kingdom under the authority of the
+Allied Powers (Maritime Courts) Act, 1941.</p>
+</blockquote>
+
+<p>Hier is het krantenknipsel van die tijd: i.e. 1943: New York Times<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>:</p>
+
+<blockquote>
+  <p>LONDON, Oct. 16 – Another name was added today to the United
+Nations Commission for the Investigation of War Crimes with the
+announcement that Dr. Jan Maarten de Moor, president of the
+Netherlands Maritime High Court in London and judge of the
+Rotterdam District Court, had been appointed by Queen
+Wilhelmina to serve on that post-war court of inquiry.</p>
+</blockquote>
+
+<p>Wat dit verder aangeeft, zijn de activiteiten van het Koninkrijk als een losse entiteit van de Lage Landen zelf, en de stappen die men neemt om bij voortduring bewijs te leveren van “soevereine rechten”, hoewel die voor vele besturen uiterst dun onderbouwd waren en zich gelukkig moesten prijzen dat Her Majesty’s government zo schuitig was met erkenningen van de soevereine status.</p>
+
+<section>
+    <h2 id="C2" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Bijzonderen Militair Bestuur:</h2>
+</section>
+
+<p>In januari 1943 werd door de minister van Oorlog, jhr. mr.
+O.C.A. van Lidth de Jeude, in Londen het bureau Militair
+Gezag opgericht onder leiding van majoor Kruls bereidde dit bureau het MG
+voor het functioneerde van 14 september 1944 (bevrijding van
+Maastricht) tot 4 maart 1946 (opheffing).</p>
+
+<p>Omdat men dacht da de oorlogswet van 23 mei 1989, waarop kennelijk de vorige fase van staat van beleg en dergelijke afgkondigd was, als onvoldoende werd gedacht, is er door het Koninkrijk op 11 september 1943 een andere regeling gemaakt, de bijzondere  staat van beleg, geldende voor het Rijk in Europa, dat wil zeggen: het grondgebied dat tot de staat der Nedelanden behoort.</p>
+
+<p>Het moment dus, dat het eerste stukje Nederland door Buitenlandse (vreemde) soldaten werd ingenomen op de Duitsers, en dus bezet, ging deze regeling in, en werd gehandhaafd voor elk stukje dat erbij kwam.</p>
+
+<hr style="color: rgba(232, 202, 135, 0.98); width: 25vw;" />
+
+<p><a id="C999" style="color:rgba(232, 202, 135, 0.98)">Voetnoten:</a></p>
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a href="http://timesmachine.nytimes.com/timesmachine/1943/10/17/83947068.html" target="_blank" rel="noopener noreferrer">Dr.Jan Maarten de Moor</a>Neem ook notie van: United Nations.</cite>
+    <a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>

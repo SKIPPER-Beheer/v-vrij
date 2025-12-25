@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
+title: veiligenvrij-local
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "vv-site recreation"
+url:
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "SKIPPER-Beheer"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +15,11 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Veiligenvrij
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Soevereine Gedachten
+        
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,15 +28,23 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERIJ: "/gallery/"
+  - BLOG-POST: "/journal/"
+  - TIJD-LIJN: /timeline/
+  - OVER ONS: "/about/"
+
+# below the added time-line feature
+collections:
+  timeline:
+    output: true
+
+
 
 # All translation keys
 translations:
@@ -44,7 +53,7 @@ translations:
 
 # Server
 destination:      	 ./_site
-port:             	 4000
+port:             	 4500
 
 
 # Build settings
@@ -56,7 +65,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+plugins:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 

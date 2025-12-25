@@ -1,0 +1,149 @@
+---
+layout: timeline-entry
+title: ": Amand-Zaak, Charter &: Arrest:"
+year: 1942
+image: "/timeline/assets/tl-00036.jpg"
+header-img: "/timeline/assets/tl-00036.jpg"
+post_url: "/timeline/YEAR-1942"
+abstract: "De centrale vraag voor de Queen's court was of een naar Engeland gevluchte Nederlander onder bestuur stond van het Koninkrijk. Uit deze zaak komt de generieke erkenning van de Kroon als de legitieme vertegenwoordiger van de Nederlandse Volken. De Verenigde Naties krijgt vorm. In Nederland wordt het toetsingsarrest verstrekt, hetgeen tot de dag van vandaag voor een schandaal gehouden wordt, en waarmee de rechtelijke instituties in Nederland nog niet klaar mee zijn:" 
+---
+
+<p>De centrale vraag voor de Queen's court was of een naar Engeland gevluchte Nederlander onder bestuur stond van het Koninkrijk. Uit deze zaak komt de generieke erkenning van de Kroon als de legitieme vertegenwoordiger van de Nederlandse Volken. De Verenigde Naties krijgt vorm. In Nederland wordt het toetsingsarrest verstrekt, hetgeen tot de dag van vandaag voor een schandaal gehouden wordt, en waarmee de rechtelijke instituties in Nederland nog niet klaar mee zijn.</p>
+
+<section>
+    <h3 style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Inhoud:</h3>
+    <ol>
+        <li><a href="#C1">De Zaak: Jean Jacques Amand:</a></li>
+        <li><a href="#C2">Atlantic Charter getekend:</a></li>
+        <li><a href="#C2">Toetsingsarrest:</a></li>
+        <li><a href="#C999">Voetnoten</a></li>
+    </ol>
+    <br />
+    <br />
+    <h2 id="C1" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">De Zaak: Jean Jacques Amand:</h2>
+</section>
+
+<p>Mijn aandacht werd getrokken door een artikel dat ik vond https://www.warhistoryonline.com/war-articles geschreven in 2015 door Erik Mustermann met de titel: Governments-in-exile and royalty relocated to London during World War Two. Hij schrijft:</p>
+
+<blockquote>
+  <p>The Dutch government had already relocated to London in the spring of 1940, but they had not been officially recognised as representative of the Dutch people. It wasn’t until 1941 that the British courts ruled that they were recognised as Holland’s government-in-exile.</p>
+</blockquote>
+
+<p>In mijn beleving zijn er dus 2 posities: 1 handelend als “Chief Executive” van haar eigen Domein, i.e. Koninkrijk der Nederlanden, en handelen als zodanig m.b.t. Nederland zelf. Immers, 1848 creëerde een andere staatsrechtelijke verhouding, waarbij er een splitsing is tussen het Koninkrijk en de Staat. Mijn wenkbrauwen gingen dus omhoog omdat ik me afvroeg wat de “Queen’s Bench” toch te vertellen had over staatsrechtelijke verhoudingen in het voor hen “buitenland”, dus buiten hun jurisdictie.</p>
+
+<p>Amand, een Nederlander, verbleef in Engeland sedert 1929, dreef een goed lopende bloemenwinkel in Strand. Op 9 augustus 1940 (hoe kwamen ze aan zijn gegevens?) werd hij opgeroepen om dienst te doen in het Koninklijke Nederlandse Leger als een “conscript”. Hij heeft hiertegen protest gevoerd, echter vervulde wel zijn dienst tot 30 januari 1941, toen hij een week <strong>verlof</strong> kreeg, en niet meer terug kwam. De Plaatselijke Politie deed een zoektocht, vond hem, herinnerde hem aan zijn verschijningsplicht, welke hij niet opvolgde. Vervolgens werd hij op 14 maart gearresteerd en en op grond van 2 overwegingen weer vrijgelaten:</p>
+<ol>
+  <li>Er was een schrijven ontvangen met de claim: Habeas Corpus (Baas over eigen lijf)</li>
+  <li>een “bail” werd afgesproken. (Hij werd vrijgelaten na betaling van een geldsom of een “bond” dat wil zeggen: waarborgsom, meestal verstrekt door een waarborg maatschappij.)</li>
+</ol>
+
+<p>Op 23 mei werd de claim van “Habeas Corpus” afgewezen. Op 27 augustus deed hij opnieuw een “ Habeas Corpus” claim, maar kreeg te horen dat dit maar bij de Engelse Minister van Binnenlandse Zaken en bij de Koninklijke Minister van Defensie moest worden bezorgd. En Amand werd weer vrijgelaten met een “ bail” of waarborg-som.</p>
+
+<p>In 1949 naturaliseerde hij tot Engelsman, en zijn bedrijven draaien nog steeds.</p>
+
+<p>De vraag in zijn zaak spitste zich toe op het punt van de “Allied Forces Act” van 1940 en of Amand daaronder viel. Die vraag werd op 30 januari 1942 met ja beantwoord, dus, er was geen andere optie dan de man uit te leveren in de handen van het Koninklijk Leger.</p>
+
+<p>Hieronder volgen een paar quotes van de uiteindelijke conclusie in de House of Lords ten aanzien van het hoger beroep dat was ingesteld:</p>
+<blockquote>
+  <p>The Appellant is a Netherlands subject and has lived in England for the last 14 years. By a Royal Decree dated 8th August, 1940, the Queen of the Netherlands purported to impose on all Netherlanders, born between certain dates and resident in Great Britain, an obligation to register for military service with the Netherlands Forces. Article 3 of the Decree defines “ordinary conscripts,” and Article 6 provides that, upon being called up for military service, an “ordinary conscript” shall be deemed to have been enlisted with the Netherlands Navy or Army. This definition of an “ordinary conscript” applies to the Appellant.</p>
+</blockquote>
+
+<blockquote>
+  <p>The Appellant (Jean Jaques Amand), taking the view that he was <strong>not amenable</strong> to the military law of the Netherlands, still did not return to camp, and on 14th March, 1941, he was arrested and detained at Bow Street Police Station<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>.</p>
+</blockquote>
+
+<p>Met andere woorden: Wilhelmina trachtte met haar decreten alle in Engeland wonende “Nederlanders” te beschouwen als onderdanen van het Koninkrijk en daarover geweldsmonopolie uit te oefenen. Amand vond dat ze daar geen basis voor heeft. Jammer dat er in deze stukken niet dieper wordt ingegaan op de reden daartoe. En ik wil er op dit moment ook niet over speculeren. Wellicht vind ik later nog stukken die daar meer licht op laten schijnen.</p>
+
+<p>Feit is dat de kwestie zelf in deze zaak niet is besproken, maar dat men ervan uitging dat Wilhelmina in rechte handelde. Omdat Amand weliswaar geprotesteerd had tegen inlijving in het Koninklijke Nederlandse Leger, en zich meldde om dienst te doen, was zijn argument dusdanig verzwakt dat deze geen werking meer had. Anders was het wellicht geweest, indien hij ten tijde van de oproep, bezwaar had aangetekend en bescherming tegen inlijving had geregeld. Alsdan had het constitutionele vraagstuk wellicht het licht gezien.</p>
+
+<p>Dus nee, deze zaak beslechtte niet de rechtsvraag of Wilhelmina ten aanzien van Amand in rechte gehandeld had, maar slechts of hij uitgeleverd kon worden op grond van het zijn van een voortvluchtige lijfeigene. De opmerking van Mustermann was een mooi stukje propaganda.</p>
+
+<section>
+    <h3 id="C2" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Atlantic Charter getekend::</h3>
+</section>
+
+<p>De Verenigde Staten en het Verenigd Koninkrijk, Roosevelt en Churchill, komen overeen dat de eerste de oorlogsinspanningen gaat steunen en aan de zijde van de geallieerden deel gaat nemen.</p>
+
+<p><img src="/timeline/assets/tl-00010.jpg" /></p>
+
+<p>Hieronder de 7 punten van de Atlantic Charter<sup class="footnote-ref" id="2"><a rel="footnote" href="#A2">2</a></sup>:</p>
+
+<ol>
+  <li>de VS en de Uk zoeken geen zelfvergroting</li>
+  <li>elk volk heeft het recht van zelfbeschikking ten aanzien van bestuurssysteem, maar … ze willen wel de “soevereine rechten” van verjaagde bestuurders herstellen</li>
+  <li>elke volk, overwinnaar of overwonnene dient op gelijkwaardige condities toegang te krijgen tot de hulpbronnen van de wereld ten behoeve van hun eigen economische ontwikkeling</li>
+  <li>volledige samenwerking te bevorderen zodat er verbeterde werkomstandigheden, economische vooruitgang en sociale zekerheid ontstaat.</li>
+  <li>denazificatie</li>
+  <li>vrije navigatie op zee voor iedereen zonder hinder</li>
+  <li>elke natie dient geweld buiten de eigen grenzen af te zweren op realistische en spirituele gronden</li>
+</ol>
+
+<p>Klinkt goed toch? Dat het zichzelf tegen spreekt laten we maar even terzijde. Neem notie van een belangrijke reden: het herstellen van de soevereine rechten van verjaagde besturen.</p>
+
+<p><strong>Let op</strong>: Dit verdrag is dus de grondslag waarop de <strong>Verenigde Naties</strong> is opgezet, en de militaire arm ervan (1943): <strong>SHAEF</strong>: Supreme Headquarters Allied Command. We zullen bij het jaar 1945 diverse bewijs stukken bespreken die aantonen dat zaken iets anders lopen dan ogenschijnlijk lijkt.</p>
+
+<p>De positie van het Koninkrijk in deze is nog wat troebel. Enerzijds, was de raffinaderij op Curaçao voor de geallieerden zeer belangrijk, omdat het 40% van de vliegtuigbrandstof leverde. Anderzijds, zie je ook een lend-lease overeenkomst tot stand komen om de oorlogsinspanningen te betalen. Welke effect hierin zit, wordt nog nader onderzocht.</p>
+
+<p>&lt;img style=”display: block; margin-left: auto; margin-right: auto; width: 50%;” src=”./timeline/assets/tl-00038.jpg”&gt;</p>
+
+<section>
+    <h3 id="C3" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Toetsingsarrest:</h3>
+</section>
+
+<p>Hoge Raad: De Nederlandse rechter is niet bevoegd om regelgeving van de Duitse bezetter te toetsen aan internationaal recht. Diens verordeningen gelden ‘onder de huidige omstandigheden’ als Nederlandse wetgeving. quote:</p>
+
+<blockquote>
+  <p>[..] als een door de bezettende macht genomen maatregel van wetgevenden aard is te beschouwen en aan een zoodanig kracht van wet hebbend voorschrift onder de huidige omstandigheden het karakter van wet in den zin der Nederlandsche wetgeving niet kan worden ontzegd;[..].</p>
+</blockquote>
+
+<p>Zo! Hoe krijg je dit voor elkaar om zo op eierschalen te lopen. Ja, het kan worden bekritiseerd, doch het laat ook zien, hoe taal gebruikt kan worden om een idee in woorden vorm te geven, waardoor de redelijkheid en billijkheid op de grondslag van mensenrecht, geweld wordt aangedaan, gehuld in de mantel van achtenswaardigheid.</p>
+
+<p>De “huidige omstandigheden” betreffen dus het feit van bezet gebied zijn en op basis van de Haagse Landkrijgsorderdening vereiste plicht voor de openbare orde zorg te dragen<sup class="footnote-ref" id="3"><a rel="footnote" href="#A3">3</a></sup>. Neem dus ook notie van het feit dat het argument: “ Nederland zou een onderdeel van het Duitse Rijk zijn als gevolg van de vlucht van de Kroon en het zetelen in London”, niet heeft geleid tot dat deelgenootschap, maar dat Nederland <strong>bezet gebied</strong> is, vallende onder de landoorlog-conventies van 1907.</p>
+
+<p>Waar richt zicht dan de kritiek op?</p>
+
+<p>De inhoud van zaak ging over de vraag of het verkopen van vlees zonder Duitse voedselbonnen een economisch delict was welke straf moest krijgen, die dan ook weer on-Nederlands was: Dit betekende de man naar Werkkamp Erika in Ommen gestuurd zou worden. Het leven aldaar was geen pretje. Waren in het normale economische verkeer allerlei zaken op de bon en slechts beperkt te verkrijgen, daar werden gevangenen afgebeuld en uitgehongerd. Puur gezien vanuit het Haagse verdrag zou er met de rechtsopvattingen van toen prima geconcludeerd kunnen zijn dat de Duitse bezetter rechtmatig handelde. Echter, de gevolgen druisten te zeer in tegen het Nederlandse rechtsgevoel. De kritiek richt zich dus op de slappe houding. Er wordt wel gezegd dat de Hoge Raad de kans om te toetsen aan alle internationale verdragen heeft gemist.</p>
+
+<p>Is dat zo?</p>
+
+<p>Een deel van de tekst van de Haagse Landkrijgsreglement van 1907 is als volgt:</p>
+<blockquote>
+  <p>Wanneer het gezag van de wettelijke overheid feitelijk is overgegaan in handen van degene, die het gebied heeft bezet, neemt deze alle maatregelen, die in zijn vermogen staan, ten einde voor zoveel mogelijk de openbare orde en het openbare leven te herstellen en te verzekeren en zulks, behoudens volstrekte verhindering, met eerbiediging van de in het land geldende wetten.</p>
+</blockquote>
+
+<p>Neem notie van 2 elementen:</p>
+<ol>
+  <li>eerbiediging van de in het land geldende wetten</li>
+  <li>volstrekte verhindering</li>
+</ol>
+
+<p>En daar wringt de schoen echt. De dappere juristen hadden moeten zeggen: dit druist tegen onze principes in, en we zien geen echte verhindering onze wetten aan de kant te zetten.</p>
+
+<p>Hierbij moeten we ook bedenken dat de samenstelling van de Hoge Raad was veranderd als gevolg van de “ariër”-verklaring en het afschuiven van een aantal joodse raadsheren. Hierdoor kan je als bestuurder/bezetter de uitkomst van een cassatie of beroep beïnvloeden, indien je dat zou willen.</p>
+
+<p>Dan is er nog een andere omstandigheid. Nederland zou een referendum krijgen om te beslissen of ze inderdaad onderdeel wilden gaan uitmaken van het Groot Duitse Rijk. Daartoe moest er enerzijds veel gebeuren om de bevolking te winnen, en anderzijds niet verder te vervreemden. Anders is de uitkomst hetzelfde als die van de Europese Grondwet: Nee!</p>
+
+<p>In plaats daarvan hebben ze met meel in de mond … “kracht van wet niet kan worden ontzegt” (dubbele negatie), dekking gezocht om verdere verkrachting van het rechtsgevoel toe te staan.</p>
+
+<p>Het heeft met dapperheid niets te maken. Het heeft te maken met wat recht is. En hoewel het hun beroep blijkt, doen zij dit niet uit liefde voor recht, maar hadden ze andere belangen. En dit deel komt telkenmale terug, waardoor wat krom is, recht gepraat wordt.</p>
+
+<hr style="color: rgba(232, 202, 135, 0.98); width: 25vw;" />
+
+<p><a id="C999" style="color:rgba(232, 202, 135, 0.98)">Voetnoten:</a></p>
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"> <a href="https://vlex.co.uk/libraries/case-law-788" target="_blank" rel="noopener noreferrer">[1942] UKHL J0721-1:</a> Amand v Secretary of State for Home Affairs and Another.</cite>
+    <a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A2">2.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a href="https://avalon.law.yale.edu/wwii/atlantic.asp" target="_blank" rel="noopener noreferrer">Avalon: Atlantic Charter, 1942</a></cite>
+    <a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A3">3.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1942:244" target="_blank" rel="noopener noreferrer">https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:1942:244</a> zie ook: <a href="https://archive.org/details/beknoptgeschiedk00snel" target="_blank" rel="noopener noreferrer">Beknopt overzicht der staatsinrichting van Nederland tijdens de bezetting</a> - Mr. JHP Bellefroid 2e druk, 1942;</cite>
+    <a style="color: orange;" class="footnote-return" href="#3">&#32;&#8617;</a>
+</div>

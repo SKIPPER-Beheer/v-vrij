@@ -23,15 +23,15 @@ layout: default
     <div class="container">
         <div class="row">
                             <div class="post-heading">
-                    <h1 style="color: #acd578;">{{ page.title }}</h1>
+                    <h1 style="color: #c1a870;-webkit-text-stroke: 1px rgb(9, 23, 38);">{{ page.title }}</h1>
                     {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    <h2 class="subheading" style="color: #c1a870;-webkit-text-stroke: 1px rgb(9, 23, 38);">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 
 <span class="time-tag-categ" style="font-size:.7em;background-color: rgba(128, 128, 128, 0.45);">
 
-{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% assign minutes = content | number_of_words | divided_by: 130 %}
 <i class="fa fa-clock-o"></i>&nbsp;{% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
 {{ minutes }} minute read
 
@@ -68,19 +68,17 @@ layout: default
     <hr class="small">
  {% if site.share %}{% include share.html %}{% endif %}
                         
-{% if site.comments %}{% include disqus_comments.html %}{% endif %}
-                        
                 <br>
 
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; - Post</a>
                     </li>
                     {% endif %}
                     {% if page.next.url %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}"> + Post &rarr;</a>
                     </li>
                     {% endif %}
                 </ul>
@@ -98,7 +96,7 @@ layout: default
 
   <div class="section-heading group" style="color: #fff; text-align: center; margin-top: 10px;">
 
-    <h3>Tags Cloud</h3>
+    <h3>Tags Wolk</h3>
 
   </div>
 
@@ -139,7 +137,7 @@ layout: default
 
   <div class="section-heading group" style="color: #fff; text-align: center; margin-top: 10px;">
 
-    <h3>Categories Cloud</h3>
+    <h3>Categoriën Wolk</h3>
 
   </div>
 

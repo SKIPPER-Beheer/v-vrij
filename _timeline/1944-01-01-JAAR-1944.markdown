@@ -1,0 +1,43 @@
+---
+layout: timeline-entry
+title: ": 1e stap: militair bestuur:"
+year: 1944
+image: "/timeline/assets/tl-00039.jpg"
+header-img: "/timeline/assets/tl-00039.jpg"
+post_url: "/timeline/YEAR-1944"
+abstract: "Op 12 september om precies 10:00 in de ochtend, betraden de Amerikaanse soldaten van de 30ste Infanterie Divisie (old Hickory Division) voor het eerst Nederlands grondgebied in het proces van verovering, in de buurt van Maastricht. Dit moment werd aangegrepen door het Koninkrijk om voor heel het land een staat van militair bestuur af te kondigen. Wat ligt werkelijk ten grondslag aan deze 'bevrijdingsdaden'?" 
+---
+
+<p>Op 12 september om precies 10:00 in de ochtend, betraden de Amerikaanse soldaten van de 30ste Infanterie Divisie (old Hickory Division) voor het eerst Nederlands grondgebied in het proces van verovering, in de buurt van Maastricht. Dit moment werd aangegrepen door het Koninkrijk om voor heel het land een staat van militair bestuur af te kondigen. Wat ligt werkelijk ten grondslag aan deze 'bevrijdingsdaden'?</p>
+
+<p>Zoals we al eerder in de toelichtingsblog op het jaar 1940 hebben aangegeven, het afroepen van een staat van militair bestuur, beleg, nood, en dergelijke, heeft grote gevolgen voor de rechtspositie van mensen.</p>
+
+<p>We dienen hierbij een aantal zaken te overwegen:</p>
+<ol>
+  <li>Het Koninkrijk is deel van een Verbond onder de “Atlantic Charter”, welke de Verenigde Naties schiep, en de militaire arm onder de noemer: “SHAEF”.</li>
+  <li>Onder de Allied Powers Act, was het Koninkrijk deel van een ander verbond, welke aan SHAEF vooraf ging en gelijktijdig functioneerde, en welke later het WUDO werd, en bij het opzetten van de NAVO, WEU werd geheten: West Europese Unie, en nu onder de naam: “Common Security and Defence Policy” voortleeft, sedert de door het Franse volk in corectief Referendum afgewezen en door het Nederlandse Volk in consultatief Referendum afgewezen Verdrag van Lissabon, beter bekend als de Europese Grondwet. <sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>
+ is geheten.</li>
+  <li>De focus van het Koninkrijk zelf lag in het oosten, het oorlogstheater van de Carribean en de Stille Oceaan.</li>
+</ol>
+
+<p>Dit laatste was duidelijk te zien in de afwegingen ten aanzien van militaire budgetten in de tijd voor de oorlog (zie: 1939/1940), maar ook tijdens de oorlog zelf.</p>
+
+<p>Hier beneden is een archief deel uit Kew, CAB 79/11/44, van 1941:</p>
+
+<p>&lt;img src=”/assets/timeline/tl-00007.jpg”&gt;</p>
+
+<p>De eerste publicatie van het Militair Bestuur werd uitgegeven:</p>
+
+<p><img src="/timeline/assets/tl-00039.jpg" /></p>
+
+<hr style="color: rgba(232, 202, 135, 0.98); width: 25vw;" />
+
+<p><a id="C999" style="color:rgba(232, 202, 135, 0.98)">Voetnoten:</a></p>
+
+<div>
+<a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+<cite style="font-size:0.8vw; color: silver; width:3vw;"><a href="https://www.nato.int/acad/fellow/01-03/payne.pdf" target="_blank" rel="noopener noreferrer">The European Security and Defence Policy
+and the future of NATO</a>door: Dr Kenneth Payne. Hij schrijft:<p>With its own planning facilities, the EU will have no institutional need to consult its
+American ally for operations in which it does not need additional equipment or skills. </p><p>Dit is in het licht van de huidige tegenstellingen en behoefte aan de zijde van de Europese NATO partners om de US over een perdiode van 5-10 jaar buiten NATO te zetten. <a href="https://www.zerohedge.com/geopolitical/europes-lead-militaries-drafting-5-10-year-plan-replace-us-nato" target="_blank" rel="noopener noreferrer">Europese infomrele gesprekken sedert Trumps happy talk @ DAVOS 2025: US exit NATO 5-10 years: zerohedge article. </a> Commentaren zijn zeer interessant. We verwijzen ook naar een beschouwing van <a href="https://youtu.be/60rm_gTi1B4" target="_blank" rel="noopener noreferrer">Scott Ritter van 22 maart 2025: </a>waar deze de politieke houding van Europese leiders beschrijft in het kader van Nato en het conflict in Oekraïne. Het doet herinneren aan een toespraak van Hitler uit 1041,waar deze diezelfde houding laakte, waarbij die houding leidde tot afwijzing van alle vredes voorstellen die zijn gedaan. <a href="https://www.jewishvirtuallibrary.org/hitler-speech-at-the-berlin-sports-palace-january-30-1941" target="_blank" rel="noopener noreferrer">https://www.jewishvirtuallibrary.org/hitler-speech-at-the-berlin-sports-palace-january-30-1941 </a> "It is interesting to visualize the development of the British policy of world domination during the last 400 years. First, there was Spain, with Dutch help; then the fight against the Dutch, with the help of other European States, France amongst them; then, finally, was against France, with the help of Europe and that part of the world at Great Britain's disposal.[..]Bearing in mind the history of the British Empire, we can understand the process itself only as a result of the complete absence of the European Continent as an entity in face of this development, particularly by the absence of the German Reich. For 300 years, Germany was practically non-existent.[..]a system arose, particularly in Europe, which England called the Balance of Power, which means, in fact, disorganization of the European Continent in favour of the British Isles. For this reason it was for centuries the aim of British policy to maintain this disorganization, not under the name of "disorganization" of course, but with a better sounding name. Just as they do not speak of cotton, but say "God," they do not speak of the disorganization of Europe but of the "Balance of Power." And this so-called Balance of Power, that is the real internal importance of Europe, enabled England again and again to play one State against another, so keeping the forces of Europe involved in internal struggle. Thus England could thrust forward undisturbed into other areas offering comparatively little resistance. </p></cite>
+<a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>

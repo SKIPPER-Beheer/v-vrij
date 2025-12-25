@@ -3,19 +3,19 @@ Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
 */
 .super-search-btn {
-	color: #fff;
+	color: ivory;
     transition: color .4s;
     text-shadow: 2px 2px #000;
 }
 .super-search-btn:hover {
-	color: #6ec54d;
+	color: orange;
     transition: color .3s;
     text-shadow: none;
 }
 
 .super-search {
 	position: fixed;
-	background-color: rgba(0, 0, 0, 0.95);
+	background-color: rgb(9, 23, 38, 0.95);
 	left: 0;
 	right: 0;
 	top: 0;
@@ -26,7 +26,7 @@ MIT Licensed
 	opacity: 0;
 }
 .super-search__close-btn {
-	color: #d3d3d3;
+	color: orange;
      transition: color .4s;
 	position: absolute;
 	right: 10px;
@@ -34,7 +34,7 @@ MIT Licensed
 	z-index: 1;
 }
 .super-search__close-btn:hover {
-	color: #fff;
+	color: ivory;
      transition: color .3s;
 }
 .super-search__input {
@@ -42,8 +42,8 @@ MIT Licensed
 	font-size: 50px;
 	border-left: none;
 	border-right: none;
-	color: #f9f9f9;
-    background-color: #000;
+	color: ivory;
+    background-color: transparent;
 	width: 100%;
     outline: 0;
 	padding: 10px 31px;
@@ -71,7 +71,7 @@ MIT Licensed
      font-size: 1.25em;
 	display: block;
 	position: relative;
-	background-color: #111;
+    background-color: rgb(9, 23, 38);
 	padding: 17px;
 	margin: 12px 14px;
 	box-shadow: 0 0px 8px rgba(255,255,255,0.45);
@@ -94,17 +94,76 @@ MIT Licensed
 }
 
 .super-search__input::-webkit-input-placeholder {
-   color: rgba(138, 17, 17, .45);
+   color: rgba(252, 175, 0, .45);
 }
 
 .super-search__input:-moz-placeholder { /* Firefox 18- */
-   color: rgba(138, 17, 17, .45);  
+   color: rgba(252, 175, 0, .45);  
 }
 
 .super-search__input::-moz-placeholder {  /* Firefox 19+ */
-   color: rgba(138, 17, 17, .45);  
+   color: rgba(252, 175, 0, .45);  
 }
 
 .super-search__input:-ms-input-placeholder {  
-   color: rgba(138, 17, 17, .45);  
+   color: rgba(252, 175, 0, .45);  
 }
+
+/* stijl elementen van de werking van de zoekfunctie toevoeging door SKIPPER-Beheer. zie zie /_includes/search.html*/
+/*
+.kop1{
+    color: orange;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    & .stappen{
+        visibility:hidden;
+    }
+}
+
+.kop1:hover{
+    color: ivory;
+    z-index:100;
+    & .stappen{
+        visibility: visible;
+        background-color: rgba(9, 23, 38, .2);
+    }
+}
+*/
+
+/*test met een andere oplossing*/
+.kop1{
+    color: orange;
+    position:absolute;
+    top: 50px;
+    left: 50px;
+    z-index:100;
+    width: 700;
+   
+
+}
+
+.stappen {
+  display: none;
+  z-index:100;
+  color: ivory;
+  transition-delay: 5s;
+    transition-duration: 2S;
+}
+
+.kop1:hover .stappen {
+  display: block;
+    z-index:100;
+    color: ivory;
+    position:absolute;
+    top: 50px;
+    left: 0px;
+    z-index:100;
+    width: 650px;
+    
+}
+.search-browser{
+    display:none;
+}
+
+/* einde van de toevoeging*/

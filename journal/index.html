@@ -12,10 +12,10 @@ header-img: "img/writing-bg.jpg"
 
 <body class="journal">
 <div class="archive">
-  <h1 class="archive-title" style="display:inline-block;"> POSTS </h1>
+  <h1 class="archive-title" style="display:inline-block;"> BLOG-POSTS </h1>
 
 <div style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; display:inline-block;margin-left:.5em;">
-    Browse by <a href="{{ site.baseurl }}/journal/category/">Category</a> or <a href="{{ site.baseurl }}/journal/tag/">Tag</a>
+    Doorzoek met <a href="{{ site.baseurl }}/journal/category/">Categorie</a> or <a href="{{ site.baseurl }}/journal/tag/">Tag</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ header-img: "img/writing-bg.jpg"
         <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ post.subtitle }}</p>
         {% endif %}
     
-    <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Geplaatst op {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 
 </div>
@@ -66,7 +66,7 @@ header-img: "img/writing-bg.jpg"
 <ul class="pager" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;" >
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; + Posts</a>
     </li>
     {% endif %}
 
@@ -74,13 +74,12 @@ header-img: "img/writing-bg.jpg"
 
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> - Posts &rarr;</a>
     </li>
     {% endif %}
 </ul>
 {% endif %}
 
 <br>
-<h6>Image Source: <a href="https://unsplash.com/photos/8muUTAmcWU4">UNSPLASH</a>
 
 </body>

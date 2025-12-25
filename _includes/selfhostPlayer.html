@@ -1,0 +1,15 @@
+<div class="embed-video-container" style="display: block; margin: auto; width: 70%;">
+  <iframe
+      src="/assets/video/human/{{ include.id }}.mp4"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+      <track
+        label="English"
+        kind="subtitles"
+        srclang="en"
+        src="/assets/video/human/{{ include.id }}.en.vtt"
+        default />
+  </iframe>
+</div>

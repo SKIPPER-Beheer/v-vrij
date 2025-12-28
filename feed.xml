@@ -3,10 +3,10 @@
   <channel>
     <title>veiligenvrij-local</title>
     <description>vv-site recreation</description>
-    <link>http://localhost:4500/</link>
-    <atom:link href="http://localhost:4500/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 28 Dec 2025 22:16:31 +0100</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2025 22:16:31 +0100</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 28 Dec 2025 23:18:16 +0100</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2025 23:18:16 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -117,8 +117,8 @@ Immers, de mens als belijving van recht duidt op het bestaan zelf: het leven waa
 
 </description>
         <pubDate>Sun, 28 Dec 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/vertias-duplex-licht-heden/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/vertias-duplex-licht-heden/</guid>
+        <link>/journal/vertias-duplex-licht-heden/</link>
+        <guid isPermaLink="true">/journal/vertias-duplex-licht-heden/</guid>
         
         <category>vrijheid</category>
         
@@ -330,8 +330,8 @@ Komen de ouders vervolgens thuis en het kind is nog steeds niet in bed, wordt da
 &lt;/ul&gt;
 
 &lt;div class=&quot;embed-video-container&quot; style=&quot;display: block; margin: auto; width: 70%;&quot;&gt;
-  &lt;iframe src=&quot;/assets/video/human/iCvmsMzlF7o.mp4&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
-      &lt;track label=&quot;English&quot; kind=&quot;subtitles&quot; srclang=&quot;en&quot; src=&quot;/assets/video/human/iCvmsMzlF7o.en.vtt&quot; default=&quot;&quot; /&gt;
+  &lt;iframe src=&quot;/assets/video/human/iCvmsMzlF7o?rel=0.mp4&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; autoplay=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt;
+      &lt;track label=&quot;English&quot; kind=&quot;subtitles&quot; srclang=&quot;en&quot; src=&quot;/assets/video/human/iCvmsMzlF7o?rel=0.en.vtt&quot; default=&quot;&quot; /&gt;
   &lt;/iframe&gt;
 &lt;/div&gt;
 
@@ -532,10 +532,9 @@ Na mijn fileren van zijn argumenten, kwam LLM op het volgende idee:
 &lt;p&gt;Angst maakte dus mededaders. En met zoveel mededaders, wie bint dan de kat de bel aan?&lt;/p&gt;
 
 &lt;div style=&quot;display: block; margin:auto; width:70%&quot;&gt;
-    &lt;iframe width=&quot;672&quot; height=&quot;478&quot; src=&quot;/assets/video/human/laws-justice.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; controls=&quot;&quot; autoplay=&quot;0&quot;&gt;
-        &lt;caption&gt;
-        &lt;/caption&gt;
-    &lt;/iframe&gt;
+    &lt;video width=&quot;720&quot; height=&quot;480&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;/assets/video/human/laws-justice.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;/video&gt;
 &lt;/div&gt;
 
 &lt;p&gt;“Deze houding spreekt tegen jullie, en tegen het leven”.&lt;/p&gt;
@@ -598,7 +597,7 @@ Good enough for me and my Bobby McGee.&lt;/p&gt;
 
 &lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A2&quot;&gt;2.&lt;/a&gt;
-    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;_site/timeline/1581-01-01-JAAR-1581&quot;&gt;Zie tijdlijn: Jaar 1581: de 2 Penningen. 1 is een Geuzen penning, de andere is dat niet.&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#2&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
+    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;/timeline/1581-01-01-JAAR-1581&quot;&gt;Zie tijdlijn: Jaar 1581: de 2 Penningen. 1 is een Geuzen penning, de andere is dat niet.&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#2&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div&gt;
@@ -613,7 +612,7 @@ Good enough for me and my Bobby McGee.&lt;/p&gt;
 
 &lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A5&quot;&gt;5.&lt;/a&gt;
-    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://biblehub.com/interlinear/ephesians/5.htm&quot;&gt;&lt;/a&gt;Efeziërs 5: 28; Interlineair&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#5&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
+    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://biblehub.com/interlinear/ephesians/5.htm&quot;&gt;Efeziërs 5: 28; Interlineair&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#5&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div&gt;
@@ -631,15 +630,15 @@ Good enough for me and my Bobby McGee.&lt;/p&gt;
     &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://www.arnowellens.nl/p/hier-koopt-u-het-euro-evangelie&quot;&gt;Blog site van Arno Wellens: EU Evangelie&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#8&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;div&amp;gt;
+&lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A9&quot;&gt;9.&lt;/a&gt;
-    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://bankenfraude.nl/&quot;&gt;Worst Bank SCenario, Hester Bais, Wink Sabée, juni 2022.&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#9&quot;&gt; ↩&lt;/a&gt;
-&amp;lt;/div&amp;gt;&lt;/p&gt;
+    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://bankenfraude.nl/&quot;&gt;Worst Bank SCenario, Hester Bais, Wink Sabée, juni 2022.&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#9&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;p&gt;div&amp;gt;
+&lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A10&quot;&gt;10.&lt;/a&gt;
-    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://digital-strategy.ec.europa.eu/en/library/unlocking-europes-scale-potential-pension-funds-and-sovereign-wealth&quot;&gt;Unlocking Europes Scale Potential. Oftwel: het schalingspotentieel ontbreekt vermits …&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#10&quot;&gt; ↩&lt;/a&gt;
-&amp;lt;/div&amp;gt;&lt;/p&gt;
+    &lt;cite style=&quot;font-size:0.8vw; color: silver; width:3vw;&quot;&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://digital-strategy.ec.europa.eu/en/library/unlocking-europes-scale-potential-pension-funds-and-sovereign-wealth&quot;&gt;Unlocking Europes Scale Potential. Oftwel: het schalingspotentieel ontbreekt vermits ...&lt;/a&gt;&lt;/cite&gt;&lt;a style=&quot;color: orange;&quot; class=&quot;footnote-return&quot; href=&quot;#10&quot;&gt;&amp;#32;&amp;#8617;&lt;/a&gt;
+&lt;/div&gt;
 
 &lt;div&gt;
     &lt;a style=&quot;color: orange; font-size: smaller;&quot; class=&quot;footnotes&quot; id=&quot;A11&quot;&gt;11.&lt;/a&gt;
@@ -671,8 +670,8 @@ mislukte focus op verstikkende regelgeving loslaat.&quot;-quote-einde- pagina: 2
 
 </description>
         <pubDate>Thu, 25 Dec 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/mensen-systemen-aambeeld/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/mensen-systemen-aambeeld/</guid>
+        <link>/journal/mensen-systemen-aambeeld/</link>
+        <guid isPermaLink="true">/journal/mensen-systemen-aambeeld/</guid>
         
         <category>vrijheid</category>
         
@@ -707,8 +706,8 @@ mislukte focus op verstikkende regelgeving loslaat.&quot;-quote-einde- pagina: 2
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 26 May 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/stand-punten-brief-reactie-VNG/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/stand-punten-brief-reactie-VNG/</guid>
+        <link>/journal/stand-punten-brief-reactie-VNG/</link>
+        <guid isPermaLink="true">/journal/stand-punten-brief-reactie-VNG/</guid>
         
         <category>vrijheid</category>
         
@@ -820,8 +819,8 @@ Maar mijn bezwaar was juist dat de bank &lt;strong&gt;zonder minimale controle&l
 &lt;p&gt;: Erik.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 May 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/recht-breuk-banken-deurwaarders/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/recht-breuk-banken-deurwaarders/</guid>
+        <link>/journal/recht-breuk-banken-deurwaarders/</link>
+        <guid isPermaLink="true">/journal/recht-breuk-banken-deurwaarders/</guid>
         
         <category>vrijheid</category>
         
@@ -858,8 +857,8 @@ Maar mijn bezwaar was juist dat de bank &lt;strong&gt;zonder minimale controle&l
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/stand-punten-brief/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/stand-punten-brief/</guid>
+        <link>/journal/stand-punten-brief/</link>
+        <guid isPermaLink="true">/journal/stand-punten-brief/</guid>
         
         <category>vrijheid</category>
         
@@ -1525,8 +1524,8 @@ en als de dood het gevolg is van handelingen die zijn gepleegd in strijd met dez
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/vrijheid-grondslag-lippendienst/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/vrijheid-grondslag-lippendienst/</guid>
+        <link>/journal/vrijheid-grondslag-lippendienst/</link>
+        <guid isPermaLink="true">/journal/vrijheid-grondslag-lippendienst/</guid>
         
         <category>vrijheid</category>
         
@@ -1654,8 +1653,8 @@ Hier kunnen we alleen vanuit onze eigen positie spreken, omdat we daar de ervari
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/kennis-overdracht-andere-krant/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/kennis-overdracht-andere-krant/</guid>
+        <link>/journal/kennis-overdracht-andere-krant/</link>
+        <guid isPermaLink="true">/journal/kennis-overdracht-andere-krant/</guid>
         
         <category>vrijheid</category>
         
@@ -2199,8 +2198,8 @@ Protesten tijdens het bewind van keizer Wu-ti van de Han-dynastie (141-87 v.Chr.
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/belast/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/belast/</guid>
+        <link>/journal/belast/</link>
+        <guid isPermaLink="true">/journal/belast/</guid>
         
         <category>vrijheid</category>
         
@@ -2398,8 +2397,8 @@ Protesten tijdens het bewind van keizer Wu-ti van de Han-dynastie (141-87 v.Chr.
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/toekomst-overleven/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/toekomst-overleven/</guid>
+        <link>/journal/toekomst-overleven/</link>
+        <guid isPermaLink="true">/journal/toekomst-overleven/</guid>
         
         <category>mens</category>
         
@@ -3217,8 +3216,8 @@ Het is aan jou wat je ermee doet uiteraard.
 &lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jul 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/Waarheidsvinding-Artificial-Intelligence-AI/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/Waarheidsvinding-Artificial-Intelligence-AI/</guid>
+        <link>/journal/Waarheidsvinding-Artificial-Intelligence-AI/</link>
+        <guid isPermaLink="true">/journal/Waarheidsvinding-Artificial-Intelligence-AI/</guid>
         
         <category>staat-der-nederlanden</category>
         

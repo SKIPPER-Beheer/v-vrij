@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>veiligenvrij-local</title>
-    <description>vv-site recreation</description>
-    <link>http://localhost:4500/</link>
-    <atom:link href="http://localhost:4500/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Feb 2026 14:43:56 +0100</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 14:43:56 +0100</lastBuildDate>
+    <title>veiligenvrij.nl</title>
+    <description>Soevereine Gedachten</description>
+    <link>https://veiligenvrij.nl/</link>
+    <atom:link href="https://veiligenvrij.nl/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 01 Feb 2026 15:18:45 +0100</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2026 15:18:45 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>1776 - Aspecten van vrijheid:</title>
         <description>&lt;h3 style=&quot;color: rgba(232, 202, 135, 0.98); font-weight: bold;&quot;&gt;: VRACHT:&lt;/h3&gt;
-&lt;ul&gt;
+&lt;ol&gt;
     &lt;li&gt;&lt;a href=&quot;#C1&quot;&gt;: WOORRDEN:&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;#C2&quot;&gt;GEBEURTENIS VAN 2-KANTEN:&lt;/a&gt;&lt;/li&gt;    
-    &lt;li&gt;&lt;a href=&quot;#C3&quot;&gt;4-DELEN VAN DE NATUUR VAN VRIJHEID, EN DE MEETLAT:&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;#C4&quot;&gt;Bestuur-schaal en mens-schaal:&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;#C999&quot;&gt;Voetnoten:&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    &lt;li&gt;&lt;a href=&quot;#C2&quot;&gt;: GEBEURTENIS VAN 2-KANTEN:&lt;/a&gt;&lt;/li&gt;    
+    &lt;li&gt;&lt;a href=&quot;#C3&quot;&gt;: 4-DELEN VAN DE NATUUR VAN VRIJHEID, EN DE MEETLAT:&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#C4&quot;&gt;: Bestuur-schaal en mens-schaal:&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#C999&quot;&gt;: Voetnoten:&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -219,8 +219,8 @@
 
 </description>
         <pubDate>Sun, 01 Feb 2026 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/vrijheid-1776-deel-1/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/vrijheid-1776-deel-1/</guid>
+        <link>https://veiligenvrij.nl/journal/vrijheid-1776-deel-1/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/vrijheid-1776-deel-1/</guid>
         
         <category>vrijheid</category>
         
@@ -341,8 +341,8 @@ Immers, de mens als belijving van recht duidt op het bestaan zelf: het leven waa
 
 </description>
         <pubDate>Sun, 28 Dec 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/vertias-duplex-licht-heden/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/vertias-duplex-licht-heden/</guid>
+        <link>https://veiligenvrij.nl/journal/vertias-duplex-licht-heden/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/vertias-duplex-licht-heden/</guid>
         
         <category>vrijheid</category>
         
@@ -894,8 +894,8 @@ mislukte focus op verstikkende regelgeving loslaat.&quot;-quote-einde- pagina: 2
 
 </description>
         <pubDate>Thu, 25 Dec 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/mensen-systemen-aambeeld/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/mensen-systemen-aambeeld/</guid>
+        <link>https://veiligenvrij.nl/journal/mensen-systemen-aambeeld/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/mensen-systemen-aambeeld/</guid>
         
         <category>vrijheid</category>
         
@@ -930,8 +930,8 @@ mislukte focus op verstikkende regelgeving loslaat.&quot;-quote-einde- pagina: 2
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 26 May 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/stand-punten-brief-reactie-VNG/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/stand-punten-brief-reactie-VNG/</guid>
+        <link>https://veiligenvrij.nl/journal/stand-punten-brief-reactie-VNG/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/stand-punten-brief-reactie-VNG/</guid>
         
         <category>vrijheid</category>
         
@@ -1043,8 +1043,8 @@ Maar mijn bezwaar was juist dat de bank &lt;strong&gt;zonder minimale controle&l
 &lt;p&gt;: Erik.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 May 2025 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/recht-breuk-banken-deurwaarders/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/recht-breuk-banken-deurwaarders/</guid>
+        <link>https://veiligenvrij.nl/journal/recht-breuk-banken-deurwaarders/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/recht-breuk-banken-deurwaarders/</guid>
         
         <category>vrijheid</category>
         
@@ -1081,8 +1081,8 @@ Maar mijn bezwaar was juist dat de bank &lt;strong&gt;zonder minimale controle&l
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/stand-punten-brief/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/stand-punten-brief/</guid>
+        <link>https://veiligenvrij.nl/journal/stand-punten-brief/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/stand-punten-brief/</guid>
         
         <category>vrijheid</category>
         
@@ -1748,8 +1748,8 @@ en als de dood het gevolg is van handelingen die zijn gepleegd in strijd met dez
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/vrijheid-grondslag-lippendienst/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/vrijheid-grondslag-lippendienst/</guid>
+        <link>https://veiligenvrij.nl/journal/vrijheid-grondslag-lippendienst/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/vrijheid-grondslag-lippendienst/</guid>
         
         <category>vrijheid</category>
         
@@ -1877,8 +1877,8 @@ Hier kunnen we alleen vanuit onze eigen positie spreken, omdat we daar de ervari
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 21 Dec 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4500/journal/kennis-overdracht-andere-krant/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/kennis-overdracht-andere-krant/</guid>
+        <link>https://veiligenvrij.nl/journal/kennis-overdracht-andere-krant/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/kennis-overdracht-andere-krant/</guid>
         
         <category>vrijheid</category>
         
@@ -2422,8 +2422,8 @@ Protesten tijdens het bewind van keizer Wu-ti van de Han-dynastie (141-87 v.Chr.
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 07 Oct 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/belast/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/belast/</guid>
+        <link>https://veiligenvrij.nl/journal/belast/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/belast/</guid>
         
         <category>vrijheid</category>
         
@@ -2621,8 +2621,8 @@ Protesten tijdens het bewind van keizer Wu-ti van de Han-dynastie (141-87 v.Chr.
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 28 Aug 2024 00:00:00 +0200</pubDate>
-        <link>http://localhost:4500/journal/toekomst-overleven/</link>
-        <guid isPermaLink="true">http://localhost:4500/journal/toekomst-overleven/</guid>
+        <link>https://veiligenvrij.nl/journal/toekomst-overleven/</link>
+        <guid isPermaLink="true">https://veiligenvrij.nl/journal/toekomst-overleven/</guid>
         
         <category>mens</category>
         

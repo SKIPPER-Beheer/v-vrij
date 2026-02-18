@@ -1,8 +1,8 @@
 # Site settings
-title: veiligenvrij-local
-email: ""
-description: "vv-site recreation"
-url:
+title: veiligenvrij.nl
+email: "contact@veiligenvrij.nl"
+description: "Soevereine Gedachten"
+url: "https://veiligenvrij.nl"
 baseurl: ""
 facebook_username: ""
 twitter_username: ""

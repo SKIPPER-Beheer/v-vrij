@@ -5,12 +5,12 @@ subtitle: "Van een niet te redden verhouding"
 active: "journal"
 date: "2023-09-04"
 category:
-  recht
-  bestuur
+    - recht
+    - bestuur
 tags: 
-  dienstbaarheid
-  staat-der-nederlanden
-  cult
+    - dienstbaarheid
+    - staat-der-nederlanden
+    - cult
 image:
   feature: bpc00029.jpg
 header-img: "img/postcover/bpc00029.jpg"

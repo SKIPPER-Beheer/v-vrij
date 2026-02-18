@@ -5,13 +5,13 @@ subtitle: ": 2-STAND-PUNTEN-BRIEF:"
 active: "journal"
 date: "2025-05-26"
 category:
-  recht
-  geschiedenis
+    - recht
+    - geschiedenis
 tags:
-    vrijheid
-    staat-der-nederlanden
-    mens
-    cult
+    - vrijheid
+    - staat-der-nederlanden
+    - mens
+    - cult
 image:
   feature: bpc00062.jpg
 header-img: "img/postcover/bpc00062.jpg"

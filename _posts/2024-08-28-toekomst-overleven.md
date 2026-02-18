@@ -5,9 +5,9 @@ subtitle: "Over geestelijke gevoeligheid en hoog sensitiviteit - een lieve besch
 active: "journal"
 date: "2024-08-28"
 category:
-    psychologie
+    - psychologie
 tags:
-    mens
+    - mens
 image:
   feature: bpc00003.jpg
 header-img: "img/postcover/bpc00003.jpg"

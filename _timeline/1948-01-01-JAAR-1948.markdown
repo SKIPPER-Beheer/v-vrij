@@ -1,0 +1,57 @@
+---
+layout: timeline-entry
+title: ": Verkiezingen & Opvolging:"
+year: 1948
+image: "/timeline/assets/tl-00041.png"
+header-img: "/timeline/assets/tl-00041.png"
+post_url: "/timeline/YEAR-1948"
+abstract: "Verkiezingen van 1948 + Wilhelmina, de Veroveraarster treedt terug ten gunste van haar dochter Juliana."
+---
+
+<p>Verkiezingen van 1948 + Wilhelmina, de Veroveraarster treedt terug ten gunste van haar dochter Juliana.</p>
+
+Deze stappen volgen het model zoals later is weergegeven door Stephen Baca Y Kerr in zijn boek: "The Entitlement to rule"<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>.
+
+
+Er stonden dus 3 zaken op het menu:
+1. Verkiezingen;
+2. Grondwetsherziening van 1948 ivm de situatie in Nederlands-Indië/ Indonesie (Er werd zelfs geppogd er een federatieve relatie van te maken);
+3. Wisseling van de wacht: Wilhelmina doet afstand en Juliana aanvaard de troon.
+
+Democratische verkiezingen waren nodig omdat dit in de Altantic Charter was vastgelegd. Dit is nogal een zaak omdat (zie hiervoor de opmerkingen in de tijdlijn bij 1953) niet iedereen, en zeker niet de minste, allerminst gecharmeerd waren van de wijze waarop dit werd ingevuld. Er waren zelfs vragen ten aanzien van de ethische waarde van die invulling.  Wellicht is dit nu, met het vermogen om terug te kijken, beter zichtbaar. 
+
+De context van deze acties is opmerkelijk. Wilhelmina was op 31 augustus jarig, en net als op 30 april of tegenwoorrdig 27 april Kongininnedag/ koningsdag is, met een vrije dag en volksfeesten, maakte de koninklijke familie een ritje door de stad Amsterdam in open rijtuigen en eindigde de rit in het Olympisch stadion, om op de ere tribune de spelen van die dag gade te slaan. 
+
+Dit gebruik was in 1948 niet anders. De familie verbleef in Amsterdam op de dam. Interessant hierbij is dat 4 dagen later, Wilhelmina afstand doet van de troon, met een korte publieke toespraak.
+
+<div style="display:block; margin: auto; width:70%">
+    <img src="/assets/timeline/tl-00008.jpg" alt="troonsafstand">
+</div>
+
+Je kunt de video bekijken met beelden en geluid van dat moment<sup class="footnote-ref" id="2"><a rel="footnote" href="#A2">2</a></sup>.Uiteraard dient dat gevolgd te worden door een kroning, en dat viel op 6 september. 
+
+<div style="display:block; margin: auto; width:70%">
+    <img src="/assets/timeline/tl-00009.jpg" alt="kroning">
+</div>
+
+De troonrede die op 21 september volgt<sup class="footnote-ref" id="3"><a rel="footnote" href="#A3">3</a></sup>, is dus te beschouwen als geplaatst in deze context: naoorlogs, de breuk is nog niet geheel geheeld, en vereist nog een laatste stap: namelijk de "vrije keuze. 
+
+<hr style="color: rgba(232, 202, 135, 0.98); width: 25vw;" />
+
+<p><a id="C999" style="color:rgba(232, 202, 135, 0.98)">Voetnoten:</a></p>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://entitlement-to-rule.info/">The Entitlement to rule</a></cite><a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A2">2.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=uokcSibdyTM">Beelden van de troonsafstand/aanvaarding bij contract</a></cite><a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A3">3.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.parlement.com/troonrede-1948-volledige-tekst">https://www.parlement.com/troonrede-1948-volledige-tekst</a></cite><a style="color: orange;" class="footnote-return" href="#3">&#32;&#8617;</a>
+</div>
+

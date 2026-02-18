@@ -1,3 +1,31 @@
+# Changes made to the default package
+
+1. feed.xml
+
+`local/feed.xml` => limit from 10 to 1000. 
+This leads to a full package of posts in `_site/feed.xml`
+
+2. added `/assets`
+this is used for in blog images, pdf's, videos selfhosted. 
+
+3. created `_includes`:
+  1. rumblePlayer.html
+  2. selfhostPlayer.html
+  3. youtubeplayer.html
+
+  This is a allow video-name to be included in the front matter. 1 per item. 
+
+4. added: 
+  1. collection: timeline in _config.yaml (allows for additional feed + tag-cloud (todo))
+  2. `/layout/timeline-entry.html`   (timeline-post-layout)
+  3. `/_timeline/`   (containing all timeline-posts)
+  4. `/_timeline/assets` (containing images, videos, pdf's)
+  5. `/css/timeline.css` (creating timeline by css)
+  6.  `/timeline.md` (creating mainpage html)
+
+
+
+
 p h o t o r a m a 
 ====================
 

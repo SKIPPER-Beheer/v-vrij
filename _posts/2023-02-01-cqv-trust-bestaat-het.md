@@ -1,0 +1,255 @@
+---
+layout: "post"
+title: "De Geboorte Trust (CQV)Symbolen"
+subtitle: "Bestaat het?"
+active: "journal"
+date: "2023-02-01"
+category:
+    - recht
+tags: 
+    - trust
+    - mens
+image:
+  feature: bpc00040.jpg
+header-img: "img/postcover/bpc00040.jpg"
+comments: "false"
+---
+
+<section>
+    <h3 style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Inhoud:</h3>
+    <ol>
+        <li><a href="#C1">Voorwoord:</a></li>
+        <li><a href="#C2">ING-BANK-AFSCHRIFT:</a></li>
+        <li><a href="#C3">ABN-AMRO-AFSCHRIFT:</a></li>
+        <li><a href="#C4">RESULTATEN:</a></li>
+        <li><a href="#C5">LEER-MOMENT:</a></li>
+        <li><a href="#C6">DE WAARDE VAN SOEVEREINITEIT:</a></li>
+        <li><a href="#C7">TOT SLOT:</a></li>
+       <li><a href="#C999">Voetnoten</a></li>
+    </ol>
+    <br />
+    <br />
+    <h2 id="C1" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">Voorwoord:</h2>
+</section>
+
+<p>De Geboorte Trust of de CQV-Trust is nog steeds een onderwerp dat de gemoederen bezig houdt. Sommigen zijn, na in het proces van de “aanvaarding” verwikkeld te zijn geweest, tot de slot som gekomen dat het geen zin heeft. Anderen gaan vol stoom door.</p>
+
+<p>Wij schreven op 3 februari 2022 deze blog, waarin we beschreven welke vragen er bij ons leven ten aanzien van het bestaan van en de toegang tot de Geboorte Trust of de CQV-Trust. We hebben uiteengezet wat de basis structuur van een trust is en hoe zich dat verhoudt tot de bevoordeelden, de beneficiairs of begunstigden. Ook beschreven we een voor de Nederlandse situatie vervangende term: “doelvermogen” en hebben we aangegeven dat aan elke trust door de insteller (van dat doelvermogen, zo wordt die “persoon” bij wet genoemd, zie artikel 2) voorwaarden zijn gesteld. Omdat we dus niet weten WIE/WAT de insteller is, welke voorwaarden er zijn om een beneficiairy te kunnen zijn van de opbrengsten van het doelvermogen, dan wel onder welke voorwaarden het doelvermogen ter beschikking komt aan de beneficiairs, is het antwoord op de vraag: wat weten we nu werkelijk, nogal onthutsend:</p>
+
+<p><strong>NIETS!</strong></p>
+
+<p>We hebben moeten constateren dat geen van de vragen die wij de afgelopen 12 maanden gesteld hebben en zelfs herhaaldelijk gesteld hebben, tot een antwoord hebben geleid.</p>
+
+<p>Voor de duidelijkheid: We ontkennen niet dat er een Geboorte Trust zou kunnen zijn. We wijzen slechts op de feiten dat veel van de informatie die beschikbaar is, gebaseerd is op de Amerikaanse situatie. En ja, die FED-rekeningen hebben we gezien. En we kennen de verhalen van die mensen die die rekeningen hebben gebruikt om een auto te kopen of geld uit die rekeningen te halen. Sommigen van die mensen hebben een veroordeling aan hun broek wegens “wire-fraud”. We wijzen erop dat wanneer je niet weet wat de voorwaarden zijn en wie/wat de insteller is, je feitelijk met lege handen staat.</p>
+
+<p>Toch blijft het door Nederland zingen, en we horen van bewijzen die er zouden zijn en dat er inderdaad “trust-rekeningen” zijn. Deze blog gaat over een tweetal van die bewijzen. De ene zou van de ING-Bank, de andere van de ABN-AMRO-Bank zijn.</p>
+
+<section>
+    <h3 id="C2" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">ING-BANK-AFSCHRIFT:</h3>
+</section>
+
+<p>Een paar weken geleden bereikte ons een email met daarin pdf-bestanden van wat op het eerste gezicht leek te zijn de bevestiging dat er “trust-rekeningen” zijn. Wow! Zou het echt?</p>
+
+<p>Met grote nieuwsgierigheid gingen we aan de slag.</p>
+
+<figure>
+    <div style="display: flex;
+    justify-content: center;">
+        <img style="display: inline-block;
+    justify-content:center; left:auto; right:auto; width:30vw;" src="/assets/images/bpp0014.jpg" />
+    </div>
+    <figurecaption>
+            <ul style="list-style: none; padding: 0; margin: 0; text-align:center;">
+                <li><sup>Afbeelding-1: ING-Afschrift dat als bewijsvoering moet dienen.</sup></li>                
+            </ul>
+    </figurecaption>
+</figure>
+
+<p>En ja, op het eerste gezicht leek het … <strong>vreemd</strong>.</p>
+
+<p>Het font klopte niet. En het riep vragen op. Movares BV, geconstitueerd en opgericht onder Nederlands recht. i.e. rechtssubject, handelsnaam van het Ministerie van Financiën die zo openlijk trust-rekeningen beheert, terwijl deze bank alles ontkent?</p>
+
+<p>Hmmmm … dan maar eerst eens de 3-pdf’s aan een onderzoek onderwerpen. Want indien deze file een afschrift is van een origineel dan wel een print uit het systeem van ING, dan zal dat zeker blijken. Eerst maar eens de EXIF en de raw-data informatie opzoeken m.b.v. “qpdf” en “exiftool”:</p>
+
+<p>De aanmaakdatum van de 1e file blijkt: 30 september 2022 om 00:00:14. So far so good. De modify date, oftewel de datum waarop deze file is veranderd of gemanipuleerd: 3 november 2022 om 18:56:46.</p>
+
+<p>De tweede file wijkt er niet vanaf anders dan met de modify date: 2022:11:03 18:57:02. En dit geldt ook voor de derde met deze modify date: 2022:11:03 18:57:15.</p>
+
+<p>Het lijkt er dus op dat alles netjes in een logische volgorde is aangemaakt en veranderd is. Maar we zien ook annotaties met een naam, een datum en een tijdstip erbij.</p>
+
+<figure>
+    <div style="display: flex;
+    justify-content: center;">
+        <img style="display: inline-block;
+    justify-content:center; left:auto; right:auto; width:30vw;" src="/assets/images/bpp0015.jpg" />
+    </div>
+    <figurecaption>
+            <ul style="list-style: none; padding: 0; margin: 0; text-align:center;">
+                <li><sup>Afbeelding-2: Verschoven tekst-blokken.</sup></li>                
+            </ul>
+    </figurecaption>
+</figure>
+
+<p>We kunnen dus wel zien dat er na de aanmaak van de basisfile, nog wijzigingen of annotaties zijn doorgevoerd met naam en toenaam (ons taalbegrip wijkt dus af van die van de fictie met de “voornaam” en “naam”). Dus in plaats van de pdf-file te openen in een normale pdf reader, maakten wij gebruik van Masterpdf: een geweldige tool om pdf-jes inhoudelijk te kunnen bekijken en de annotaties aan een onderzoek te onderwerpen.</p>
+
+<p>En wat ons meteen opviel, is dat er <strong>tekst-blokken</strong> in staan.</p>
+
+<p>Wacht effe!?!</p>
+
+<p>Wanneer het om een authentiek afschrift van de bank gaat, of een enkele scan van een authentiek afschrift, dan staan er geen tekst-blokken in. Dan gaat het om een zogenaamde “platte pdf-file”. Met zulke bestanden mag je dan zelfs blij zijn wanneer je de tekst kan selecteren.</p>
+
+<p>En plotseling ontstond bij ons het gevoel, hetzelfde gevoel, als toen we hadden rondom Obama’s geboorte certificaat. Ja-ja, zij die hun geschiedenis niet kennen, zijn genoopt dezelfde fouten te maken. En we voegen eraan toe: Op dezelfde knullige wijze!</p>
+
+<p>We zullen jullie de plaatjes laten zien van wat we aantroffen:</p>
+
+<p>In het tweede plaatje kun je al zien wat er gebeurt wanneer we de eerste laag van tekst-blokken verschuiven. Dit hoort niet in een “platte pdf”, maar kan heel goed in een gemanipuleerde pdf.</p>
+
+<p>Het bestaan van tekstblokken is met de blauwe rand aangegeven. Normaliter, tref je de voettekst onder de streep aan. Maar met ons programma waren we zo in staat het hele tekst-blok te verschuiven naar de plek in het plaatje.</p>
+
+<p>Dit alleen al is het bewijs van bewijsmanipulatie. Om het helemaal af te maken zullen we in het volgende plaatje laten zien wat er gebeurt wanneer we de blanco tekstblokken verschuiven.</p>
+
+<p>En hierbij willen we wel aangeven dat het ons niet om het wie gaat. Het gaat ons erom WAT er gebeurt. We zullen dus bepaalde velden gedekt houden.</p>
+
+<figure>
+    <div style="display: flex;
+    justify-content: center;">
+        <img style="display: inline-block;
+    justify-content:center; left:auto; right:auto; width:30vw;" src="/assets/images/bpp0016.jpg" />
+    </div>
+    <figurecaption>
+            <ul style="list-style: none; padding: 0; margin: 0; text-align:center;">
+                <li><sup>Afbeelding-3: Weggehaalde 2e laag van blanco-tekst-blokken.</sup></li>                
+            </ul>
+    </figurecaption>
+</figure>
+
+<p>Echter, degene die dit heeft geproduceerd, dan wel zij die bekend zijn met dit valse bewijs, weten wie. Het is uitzonderlijk jammer dat in een tijd waarin echtheid en waarheid met stip op nummer 3 staan (leven staat op nummer 1 en vrijheid op 2, toch? – om vrijheid en leven te ondersteunen), er zo wordt omgesprongen met de eigen achterban.</p>
+
+<p>Wij weten dus wiens afschriften zijn gebruikt en van wie deze bestanden afkomstig zijn en hoe ze zijn gemanipuleerd. Sterker nog, <strong>de manipulator(s) wilde(n) het net effe iets tè mooi maken</strong>.</p>
+
+<p>We weten ook dat degene, wiens afschriften zijn gebruikt, een ABN-AMRO rekening heeft.</p>
+
+<p>Dus wat schetst onze verbazing. We krijgen een bericht binnen met nog een “bewijs”. Dit keer in de vorm van een plaatje dat een Afschrift zou zijn van ABN-AMRO.</p>
+
+<section>
+    <h3 id="C3" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">ABN-AMRO-AFSCHRIFT:</h3>
+</section>
+
+<p>Met deze “ING-Afschriften”-affaire achter de kiezen stonden we nogal sceptisch ten opzichte van de kwaliteit van dat afschrift van ABN-AMRO. Maar, omdat het om een afbeelding gaat, konden we niet dezelfde analyse maken als van deze pdf serie. Desondanks hebben we de afbeelding goed bestudeerd, en er vielen ons een aantal zaken op.</p>
+
+<figure>
+    <div style="display: flex;
+    justify-content: center;">
+        <img style="display: inline-block;
+    justify-content:center; left:auto; right:auto; width:30vw;" src="/assets/images/bpp0017.jpg" />
+    </div>
+    <figurecaption>
+            <ul style="list-style: none; padding: 0; margin: 0; text-align:center;">
+                <li><sup>Afbeelding-4: Gefingeerd “bewijs”.</sup></li>                
+            </ul>
+    </figurecaption>
+</figure>
+
+<ol>
+  <li>De zwart gemaakte gedeelten. Gelet op het feit dat wij de naam van de persoon kennen wiens afschriften zijn gebruikt om tot de ING-Afschriften manipulatie te komen, is het opvallend dat de ruimte van het zwart zeer goed overeenkomt met de naam op de ING-Afschriften.</li>
+  <li>Het zwart gemaakte nummer van het adres komt nogal goed overeen met wat wij nu weten als het adresnummer op de ING-Afschriften. Dit maakt de adres-ruimte zeer goed overeenkomend met wat we weten als het adres op de ING-Afschriften, ons derde punt.</li>
+  <li>De tegenrekening lijkt ons niet overeen te komen met het rekening-nummer van de ABN-AMRO die we aantroffen op de ING-Afschriften.</li>
+</ol>
+
+<p>Dit maakt dat we de cirkel van vermoeden niet geheel kunnen sluiten als perfect. Edoch, het vermoeden blijft zeer sterk. En dat doet het vertrouwen geen goed.</p>
+
+<p>Doordat het niet doorslaggevend is, is de vraag wel wanneer wordt iets mathematisch onredelijk om nog van een toeval te kunnen spreken? We kunnen dus slechts spreken van een vermoeden, namelijk het vermoeden dat zowel deze afbeelding als de “ING”-pdf uit dezelfde bron afkomstig zijn.</p>
+
+<p>Vervolgens hebben we gekeken naar de gegevens op het Afschrift zelf.</p>
+
+<p>De tekst in de rode ellips wijkt nogal af van de tekst buiten de rode ellips. Er zijn duidelijke verschillen tussen de 8 binnen deellips en buiten de ellips, de cijfers 7, 0, 4 idem dito. En dit geldt voor de letter a, o, r.</p>
+
+<p>Met dit alles in gedachten is de tekst, welke in rood geprint is geworden, nogal hyperbolisch. Voor elk van die claims zal aanvullend echt bewijs moeten worden getoond. Nee, deze afbeelding bewijst niks anders dan dat ook dit Afschrift met aan zekerheid grenzende waarschijnlijkheid een manipulatie is. Dit door laten gaan voor bewijs lijkt ook een valsheid.</p>
+
+<p>We zeggen hiermee niet dat de claims die worden gemaakt vals zijn. Wat we zeggen is dat deze afschriften geen bewijs vormen, maar vervalsingen zijn. En dit brengt ons tot een aantal van de claims in rood geprint:</p>
+
+<ul>
+  <li>“Deze mens betaalt al 7 maanden met zijn credit card via zijn T-rekening.“</li>
+  <li>“De maandelijkse kosten t.b.v. deze creditcard worden al maanden afgeschreven van dit rekening nummer”</li>
+  <li>“Diverse andere automatische incasso’s creditcard worden allen gewoon afgeboekt van dit bsn iban t-nr.“</li>
+</ul>
+
+<p>We zijn zeer blij voor deze persoon, dat deze in staat is geweest om de afgelopen 7 maanden zijn kosten van levensonderhoud uit een Trust-potje te voldoen. We zien graag de bewijzen. Maar dan alleen met de originele afschriften zonder geknoei. En ook moet worden aangetoond dat het levensonderhoud betaald wordt zonder steun van het salaris dat wordt genoten, althans volgens het ING-Afschrift.</p>
+
+<p>En dan is er nog een aspect dat nog niet is belicht. Een trust-vermogen, of doelvermogen is feitelijk een afgescheiden vermogen, los van de insteller en de bevoordeelde, begunstigde of beneficiairy. Geld dat zich als een ongesecuriseerde achtergestelde lening aan de beherende bank is verleend (lees: elke bankrekening) door een ander bevindt zich als het ware in een potje dat op naam van iets staat.</p>
+
+<p>Die naam, zo wordt er geclaimd, zou de BSN-naam zijn. En van wie is dat? Niet van jou, want de BSN is een vehikel of Transmission Utility (TU) dat door deze NL-Overheid is gemaakt en los staat van jou. Elke keer wanneer je je met deze TU, de ingezetene, de burger, de BSN identificeert, verword je van levende soeverein tot dode onderworpene, de rechtssubject. Daarom moet jij je identificeren of jezelf eraan gelijk stellen. Het is niet hetzelfde. En wil je je niet volgens hun regels identificeren, dan willen ze niks voor je doen en dat is in strijd met artikel 16 van het bindende internationale verdrag: de I.C.C.P.R. (I.V.B.P.R. in het Nederlands). Artikel 6 van het UVRM zegt precies hetzelfde.</p>
+
+<p>Het eigendom van dat geld ligt ergens anders èn dus niet bij jou!</p>
+
+<p>De vraag is derhalve, mede gelet op het ontbreken van antwoorden op de vraag wat de trust-voorwaarden zijn, of je in een dergelijk geval, zomaar, zonder toestemming, geld van een ander mag toe-eigenen. Is hier dan wellicht sprake van oneerlijke zelfverrijking? Diefstal? Bankfraude?</p>
+
+<p>Technisch is het afgeven van een Automatische Incasso op elke willekeurige rekening zeer wel mogelijk. Maar neem a.u.b. notie van het feit dat een dergelijke handeling tot de conclusie van strafrechtelijke gedraging <strong>kan</strong> leiden.</p>
+
+<section>
+    <h3 id="C4" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">RESULTATEN:</h3>
+</section>
+
+<p>Waar brengt dit ons?</p>
+
+<p>Wel, in termen van ons onderzoek naar de CQV-Trust zijn we feitelijk weer terug bij af, en er zijn geen openstaande vragen beantwoord. Er zijn er meer bij gekomen.</p>
+
+<p>Klaarblijkelijk vinden degenen die “toegang” tot hun “doelvermogen” hebben het nodig om hun afschriften dusdanig te manipuleren dat het dat ondersteund wat ze beweren. Raar. Waarom eigenlijk afschriften annoteren en manipuleren, indien het levensonderhoud via de Trust-rekening kan worden betaald?</p>
+
+<p>Er zitten verder in deze hele kwestie nog een aantal lessen.</p>
+
+<section>
+    <h3 id="C5" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">LEER-MOMENT:</h3>
+</section>
+
+<p>Als <strong>eerste</strong> kwam ons voor dat “eerlijkheid duurt het langst” en “al is de leugen nog zo snel, de waarheid achterhaalt haar wel” wellicht melige gezegden zijn, maar dat ze tevens een universeel feit weergeven.</p>
+
+<p>Ten <strong>tweede</strong> – en dat hangt samen met het eerste, dat correctheid vereist dat we de tijd nemen om bewijs te overwegen, te onderzoeken en te testen.</p>
+
+<p>Ten <strong>derde</strong>, dat onze focus moet zijn op wie wij zijn. Dat wil zeggen: volwassen en capabel om onze vermogens tot helder en kritisch denken en ons morele kompas, te blijven gebruiken en ons niet te laten afleiden door bling-bling.</p>
+
+<section>
+    <h3 id="C6" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">DE WAARDE VAN SOEVEREINITEIT:</h3>
+</section>
+
+<p>Wat wil het eigenlijk zeggen om (een) soeverein te zijn? We kwamen een hele mooie Engelstalige beschrijving tegen die we graag met jullie willen delen:</p>
+
+<blockquote>
+  <p>“Only the entity can choose their reality, and this is the fundamental principle of free will. […] The choice between sovereignty or external dependence is the basis of free will, and there is no structure or external source that can eliminate this basic choice. It is an inward choice that, regardless of outward circumstance, is incapable of being denied by anything external”.</p>
+</blockquote>
+
+<p>Vertaling:</p>
+<blockquote>
+  <p>Alleen de entiteit (mens) kan zijn werkelijkheid kiezen, en dit is het grondbeginsel van de vrije wil. […] De keuze tussen soevereiniteit of externe afhankelijkheid is de basis van de vrije wil, en er is geen structuur of externe bron die deze fundamentele keuze kan uitschakelen. Het is een innerlijke keuze die, ongeacht de uiterlijke omstandigheden, niet kan worden ontkend door iets van buiten.</p>
+</blockquote>
+
+<p>Met andere woorden: wat kiezen we? Zijn we ons voldoende bewust van die keuze? En met welke natuurwet voel jij je verbonden? Die van afhankelijkheid van de structuur en denkwijzen van anderen of kiezen we voor onafhankelijkheid, autonomie, soevereiniteit en zelf-beschikking in harmonie met de 8 natuurwetten?</p>
+
+<section>
+    <h3 id="C7" style="color: rgba(232, 202, 135, 0.98); font-weight: bold;">TOT SLOT:</h3>
+</section>
+
+<p>Door de invoering van de Soevereiniteitsverklaring (SVK), door cursussen te geven over Parse-Syntax-Grammer (PSG) en het Postmeesterschap, werken wij aan die realiteit.</p>
+
+<p>De SVK is een verklaring van je intenties en je standpunt dat je vanaf dat punt in de tijd op en in je geboorterecht gaat staan. Niet langer heb je een trustee, bewindvoerder of curator nodig die jouw wel zal vertellen en zo nodig dwingen dat te doen wat zij als wenselijk zien. Je zet ze feitelijk weer op hun plek, stelt ze in staat van beschuldiging en je nietigt (dat is de juiste term hiervoor) de begrenzingen die zij aan je stellen door de valsheid van de geboorteaangifte.</p>
+
+<p>Door dat te doen word je echt een volwassene. Het proces is rijpend.</p>
+
+<p>En ja, zo er al een trust is, dan is dat deze. En het is tijd dat wij allen ons bewust worden van het feit dat wij zelf voor dat leven in vrijheid voorbestemd zijn en dat ten volle leven.</p>
+
+<p>Daarvoor is, voorlopig, correctheid in taal en contract om transacties te doen, noodzakelijk. Dat is wat PSG ons biedt. Ontdaan van kleuring van de “babbel”-taal, schrijven we feiten(-taal) in het nu, welke leiden tot handelingen die daarmee in overeenstemming zijn. Babbel-taal heeft een functie in termen van dat wat is te beschouwen en te zien of er een gemeenschap, dat wil zeggen commune, te vormen is. We spreken dan van communicatie. Het is de ontmoeting die door het volledige spectrum van communicatie zijn eerste verkenning maakt en op basis daarvan waarde-oordelen creëert. Het gaat tenslotte om waarde-overdracht. Wie komt wat brengen of halen en onder welke voorwaarden? Komt de ander in vrede of zijn er andere motieven?</p>
+
+<p>Na deze communicatie-fase kom je in de afspraak-fase: wie, wat, waar, wanneer, hoeveel, etc. En in die fase is PSG fenomenaal. Door feiten in het juiste perspectief te plaatsen wordt duidelijk wat de werkelijke wilsverklaring van de contractanten is. Hiermee maak je de afstemmingsfase feitelijk concreet. Essentieel! Zo voorkom je heel eenvoudig alle mogelijke miscommunicatie en suggestiviteiten.</p>
+
+<p>En tot slot, gelet op het feit dat we in deze transformerende fase met de totaal inepte en zich achter schermen van steeds veranderende bedrijfsvoorwaarden verschuilende overheid te maken hebben, is het Postmeesterschap iets dat ons ondersteund onze soevereine voorwaarden en wil door te zetten, en daardoor goed gebruik te maken van de werking van de post-systemen.</p>
+
+<dl>
+  <dt>Team Veilig &amp; Vrij.</dt>
+  <dt>Wil je meer weten over de SVK, de cursussen PSG en het Postmeesterschap, dan is aanstaande zondag 5 februari 2023 om 14:30 een gelegenheid tot kennismaken. Zie voor verdere details: <a href="https://douwebeat.nl/" target="_blank" rel="noopener noreferrer">D’Ouwe Beat</a><a href="">douwebeat.nl</a> of <a href="https://wakkere-events.nl/event/365" target="_blank" rel="noopener noreferrer">https://wakkere-events.nl/event/365</a>.</dt>
+  <dd>
+    <p>Team Veilig &amp;: Vrij:</p>
+  </dd>
+  <dd>Ivar.</dd>
+</dl>
+
+<p>Team Veilig &amp; Vrij.</p>

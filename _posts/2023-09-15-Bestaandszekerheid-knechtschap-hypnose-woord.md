@@ -5,12 +5,12 @@ subtitle: "Van het nieuwe knechtende hypnose-woord"
 active: "journal"
 date: "2023-09-15"
 category:
-  recht
-  bestuur
+    - recht
+    - bestuur
 tags: 
-  vrijheid
-  staat-der-nederlanden
-  cult
+    - vrijheid
+    - staat-der-nederlanden
+    - cult
 image:
   feature: bpc00028.jpg
 header-img: "img/postcover/bpc00028.jpg"

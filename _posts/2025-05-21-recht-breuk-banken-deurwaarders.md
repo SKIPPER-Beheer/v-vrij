@@ -5,14 +5,14 @@ subtitle: "– en niemand ingrijpt"
 active: "journal"
 date: "2025-05-21"
 category:
-    recht
-    bestuur
+    - recht
+    - bestuur
 tags:
-    vrijheid
-    staat-der-nederlanden
-    mens
-    cult
-    geld
+    - vrijheid
+    - staat-der-nederlanden
+    - mens
+    - cult
+    - geld
 image:
   feature: bpc00063.jpg
 header-img: "img/postcover/bpc00063.jpg"

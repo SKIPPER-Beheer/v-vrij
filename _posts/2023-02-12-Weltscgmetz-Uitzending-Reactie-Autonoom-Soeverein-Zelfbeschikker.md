@@ -5,12 +5,12 @@ subtitle: "Een Reactie"
 active: "journal"
 date: "2023-02-12"
 category:
-  recht
-  bestuur
+    - recht
+    - bestuur
 tags: 
-  cult
-  mens
-  vrijheid
+    - cult
+    - mens
+    - vrijheid
 image:
   feature: bpc00039.jpg
 header-img: "img/postcover/bpc00039.jpg"

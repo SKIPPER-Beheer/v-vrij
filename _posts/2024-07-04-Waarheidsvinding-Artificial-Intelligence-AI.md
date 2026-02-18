@@ -5,11 +5,11 @@ subtitle: "Onthullende antwoorden in 8 vragen met ChatGTP4o"
 active: "journal"
 date: "2024-07-04"
 category:
-    bestuur
-    technologie
+    - bestuur
+    - technologie
 tags:
-    staat-der-nederlanden
-    mens
+    - staat-der-nederlanden
+    - mens
 image:
   feature: bpc00004.jpg
 header-img: "img/postcover/bpc00004.jpg"

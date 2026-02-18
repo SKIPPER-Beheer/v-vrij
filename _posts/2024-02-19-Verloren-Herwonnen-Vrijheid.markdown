@@ -5,10 +5,10 @@ subtitle: "Tijd voor de Vrijheid"
 active: "journal"
 date: "2024-02-19"
 category:
-  recht
-  geschiedenis
+    - recht
+    - geschiedenis
 tags:
-  vrijheid
+    - vrijheid
 image:
   feature: bpc00002.jpg
 header-img: "img/postcover/bpc00002.jpg"

@@ -5,10 +5,10 @@ subtitle: "Het Sluipende gevaar van een uiteen-drijving door de polariserende MS
 active: "journal"
 date: "2024-06-28"
 category:
-    human_design
-    technologie
+    - human_design
+    - technologie
 tags:
-   mens
+    - mens
 image:
   feature: bpc00020.jpg
 header-img: "img/postcover/bpc00020.jpg"

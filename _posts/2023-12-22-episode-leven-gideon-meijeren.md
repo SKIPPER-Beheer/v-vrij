@@ -5,12 +5,10 @@ subtitle: "Van een schokkende inkijk in de wetsspraak"
 active: "journal"
 date: "2023-12-22"
 category:
-  
-  recht
+    - recht
 tags:
-  
-  staat-der-nederlanden
-  cult
+    - staat-der-nederlanden
+    - cult
 image:
   feature: bpc00007.jpg
 header-img: "img/postcover/bpc00007.jpg"

@@ -5,9 +5,9 @@ subtitle: ""
 active: "journal"
 date: "2024-01-23"
 category:
-  psychologie
+    - psychologie
 tags:
-  cult
+    - cult
 image:
   feature: bpc00023.jpg
 header-img: "img/postcover/bpc00023.jpg"

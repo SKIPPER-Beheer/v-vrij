@@ -5,10 +5,10 @@ subtitle: "Een Persoonlijke Terugblik"
 active: "journal"
 date: "2024-01-03"
 category:
-  psychologie
-  geschiedenis
+    - psychologie
+    - geschiedenis
 tags:
-  mens
+    - mens
 image:
   feature: bpc00024.jpg
 header-img: "img/postcover/bpc00024.jpg"

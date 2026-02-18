@@ -5,10 +5,9 @@ subtitle: "Deel-II van II: Global Cycles"
 active: "journal"
 date: "2023-10-23"
 category:
-  human_design
+    - human_design
 tags: 
-  mens
- 
+    - mens
 image:
   feature: bpc00009.jpg
 header-img: "img/postcover/bpc00009.jpg"

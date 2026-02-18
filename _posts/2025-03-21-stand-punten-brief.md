@@ -5,13 +5,13 @@ subtitle: ": STAND-PUNTEN-BRIEF:"
 active: "journal"
 date: "2025-03-21"
 category:
-  recht
-  bestuur
+    - recht
+    - bestuur
 tags:
-    vrijheid
-    staat-der-nederlanden
-    mens
-    cult
+    - vrijheid
+    - staat-der-nederlanden
+    - mens
+    - cult
 image:
   feature: bpc00061.jpg
 header-img: "img/postcover/bpc00061.jpg"

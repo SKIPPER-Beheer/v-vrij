@@ -5,10 +5,10 @@ subtitle: "De Disphoria van de WOKE stroming"
 active: "journal"
 date: "2024-01-27"
 category:
-  psychologie
-  geschiedenis
+    - psychologie
+    - geschiedenis
 tags:
-  mens
+    - mens
 image:
   feature: bpc00021.jpg
 header-img: "img/postcover/bpc00021.jpg"

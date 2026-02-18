@@ -5,13 +5,13 @@ subtitle: "Van een eigentijdse: J'Accuse"
 active: "journal"
 date: "2023-11-13"
 category:
-  bestuur
-  recht
+    - bestuur
+    - recht
 tags:
-  vrijheid
-  mens
-  staat-der-nederlanden
-  cult
+    - vrijheid
+    - mens
+    - staat-der-nederlanden
+    - cult
 image:
   feature: bpc00026.jpg
 header-img: "img/postcover/bpc00026.jpg"

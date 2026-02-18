@@ -5,11 +5,10 @@ subtitle: ": Weeffouten:"
 active: "journal"
 date: "2025-02-25"
 category:
-        recht
-
+    - recht
 tags:
-    vrijheid
-    staat-der-nederlanden
+    - vrijheid
+    - staat-der-nederlanden
     
 image:
   feature: bpc00060.jpg

@@ -5,10 +5,9 @@ subtitle: "Tragikomedie in drie bedrijven"
 active: "journal"
 date: "2023-05-12"
 category:
-  recht
-  
+    - recht
 tags: 
-  cult
+    - cult
 image:
   feature: bpc00033.jpg
 header-img: "img/postcover/bpc00033.jpg"

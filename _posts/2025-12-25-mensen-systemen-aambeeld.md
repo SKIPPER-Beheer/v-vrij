@@ -3,14 +3,14 @@ layout: "post"
 title: "Mensen &; SYSTEMEN"
 subtitle: ": AAM-BEELD VAN DE WAAR-MERKING:"
 active: "journal"
-date: "2025-12-20"
+date: "2025-12-25"
 category:
-  recht
-  geschiedenis
+    - recht
+    - geschiedenis
 tags:
-    vrijheid
-    mens
-    cult
+    - vrijheid
+    - mens
+    - cult
 image:
   feature: bpc00065.jpg
 header-img: "img/postcover/bpc00065.jpg"
@@ -381,10 +381,9 @@ Dit laat echter onverlet dat wij allen, als gehele bevolking de keuze hadden kun
 Angst maakte dus mededaders. En met zoveel mededaders, wie bint dan de kat de bel aan?
 
 <div style="display: block; margin:auto; width:70%">
-    <iframe width="672" height="478" src="/assets/video/human/laws-justice.mp4" frameborder="0" allowfullscreen controls autoplay="0">
-        <caption>
-        </caption>
-    </iframe>
+    <video width="720" height="480" controls>
+        <source src="/assets/video/human/laws-justice.mp4" type="video/mp4">
+    </video>
 </div>
 
 "Deze houding spreekt tegen jullie, en tegen het leven". 
@@ -442,7 +441,7 @@ En dit voor deze kerst, en Yule, wanneer de donkere dagen heersen, en we de teru
 
 <div>
     <a style="color: orange; font-size: smaller;" class="footnotes" id="A2">2.</a>
-    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="_site/timeline/1581-01-01-JAAR-1581">Zie tijdlijn: Jaar 1581: de 2 Penningen. 1 is een Geuzen penning, de andere is dat niet.</a></cite><a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="/timeline/1581-01-01-JAAR-1581">Zie tijdlijn: Jaar 1581: de 2 Penningen. 1 is een Geuzen penning, de andere is dat niet.</a></cite><a style="color: orange;" class="footnote-return" href="#2">&#32;&#8617;</a>
 </div>
 
 <div>
@@ -457,7 +456,7 @@ En dit voor deze kerst, en Yule, wanneer de donkere dagen heersen, en we de teru
 
 <div>
     <a style="color: orange; font-size: smaller;" class="footnotes" id="A5">5.</a>
-    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://biblehub.com/interlinear/ephesians/5.htm"></a>Efeziërs 5: 28; Interlineair</cite><a style="color: orange;" class="footnote-return" href="#5">&#32;&#8617;</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://biblehub.com/interlinear/ephesians/5.htm">Efeziërs 5: 28; Interlineair</a></cite><a style="color: orange;" class="footnote-return" href="#5">&#32;&#8617;</a>
 </div>
 
 <div>
@@ -475,12 +474,12 @@ En dit voor deze kerst, en Yule, wanneer de donkere dagen heersen, en we de teru
     <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.arnowellens.nl/p/hier-koopt-u-het-euro-evangelie">Blog site van Arno Wellens: EU Evangelie</a></cite><a style="color: orange;" class="footnote-return" href="#8">&#32;&#8617;</a>
 </div>
 
-div>
+<div>
     <a style="color: orange; font-size: smaller;" class="footnotes" id="A9">9.</a>
     <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://bankenfraude.nl/">Worst Bank SCenario, Hester Bais, Wink Sabée, juni 2022.</a></cite><a style="color: orange;" class="footnote-return" href="#9">&#32;&#8617;</a>
 </div>
 
-div>
+<div>
     <a style="color: orange; font-size: smaller;" class="footnotes" id="A10">10.</a>
     <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://digital-strategy.ec.europa.eu/en/library/unlocking-europes-scale-potential-pension-funds-and-sovereign-wealth">Unlocking Europes Scale Potential. Oftwel: het schalingspotentieel ontbreekt vermits ...</a></cite><a style="color: orange;" class="footnote-return" href="#10">&#32;&#8617;</a>
 </div>

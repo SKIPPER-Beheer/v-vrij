@@ -5,11 +5,11 @@ subtitle: "Een Video Presentatie"
 active: "journal"
 date: "2024-04-15"
 category:
-    recht
-    postmeester
+    - recht
+    - postmeester
 tags:
-   mens
-   vrijheid
+   - mens
+   - vrijheid
 image:
   feature: bpc00022.jpg
 header-img: "img/postcover/bpc00022.jpg"

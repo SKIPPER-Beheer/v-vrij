@@ -5,10 +5,10 @@ subtitle: "Hoe de bestaanszekerheid daaraan tornt"
 active: "journal"
 date: "2023-09-25"
 category:
-  recht
+    - recht
 tags: 
-  vrijheid
-  staat-der-nederlanden
+    - vrijheid
+    - staat-der-nederlanden
 image:
   feature: bpc00027.jpg
 header-img: "img/postcover/bpc00027.jpg"

@@ -5,14 +5,14 @@ subtitle: ""
 active: "journal"
 date: "2023-12-28"
 category:
-  psychologie
-  bestuur
-  recht
+    - psychologie
+    - bestuur
+    - recht
 tags:
-  vrijheid
-  dienstbaarheid
-  staat-der-nederlanden
-  cult
+    - vrijheid
+    - dienstbaarheid
+    - staat-der-nederlanden
+    - cult
 image:
   feature: bpc00025.jpg
 header-img: "img/postcover/bpc00025.jpg"

@@ -5,10 +5,9 @@ subtitle: "Deel-I van II: Global Cycles: Changing of the Keys"
 active: "journal"
 date: "2023-10-04"
 category:
-  human_design
+    - human_design
 tags: 
-  mens
- 
+    - mens
 image:
   feature: bpc00008.jpg
 header-img: "img/postcover/bpc00008.jpg"

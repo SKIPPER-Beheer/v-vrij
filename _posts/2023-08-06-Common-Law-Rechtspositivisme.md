@@ -5,13 +5,13 @@ subtitle: ""
 active: "journal"
 date: "2023-08-06"
 category:
-  recht
-  p.-s.-g.
+    - recht
+    - p.-s.-g.
 tags: 
-  vrijheid
+    - vrijheid
 image:
-  feature: bpc00031.jpg
-header-img: "img/postcover/bpc00031.jpg"
+  feature: bpc00030.jpg
+header-img: "img/postcover/bpc00030.jpg"
 comments: "false"
 ---
 

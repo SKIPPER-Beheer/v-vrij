@@ -1,0 +1,396 @@
+---
+layout: timeline-entry
+title: ": Einde militair bestuur, verkiezingen:"
+year: 1946
+image: "/timeline/assets/tl-00042.jpg"
+header-img: "/timeline/assets/tl-00042.jpg"
+post_url: "/timeline/YEAR-1946"
+abstract: "Einde militair bestuur. Rust en orde, en het openbare leven komt weer op gang."
+---
+
+<p>Einde militair bestuur. Rust en orde, en het openbare leven komt weer op gang.</p>
+
+Het militaire bestuur werd op 6 maart 1946 beëindigd. Hier waren een paar redenen voor: 
+
+1. Het militiar gezag stond onder hoogste gezag van SHAEF, welke vrijwel direct na de onvoorwaardelijke overgave van de Duitse Strijdkrachten werd opgeheven in alle landen, behalve het Duitse Rijk binnen de grenzen van december 1937. 
+2. Het afvoeren, dwz, de zelf afvoering van alle Duitse Strijdkrachten van Nederlands grondgebied was al voltooid vroeg in juni 1945 voltooid.
+3. De behoefte aan duidelijkheid was noodzakelijk, maar ook dat er all genoeg leed was toegevoegd. 
+
+Zo staat er een interessante opmerking<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>: 
+>Een in de oorlog gedeporteerde Duitse Jood liep in het laatste geval dus het risico in hetzelfde kamp te worden opgesloten als zijn voormalige vervolger en ‘moordenaar’, de gearresteerde Duitse SS’er of SD’er!
+
+Het leven van Leo Rodrigues Lopes is hier een voorbeeld van [ zie onderstaand]. 
+
+Er bleek een fundamenteel verschil van mening tussen Kruls en diverse ministers te bestaan: ze moesten maar ff wegblijven,volgens Kruls en hem en zijn organisatie niet voor de voeten lopen (lees: rechtsherstel). <sup class="footnote-ref" id="2"><a rel="footnote" href="#A2">2</a></sup> 
+
+Onderstaand een lijstje met de partijen die mee mochten doen: 
+
+<table>
+    <tr>
+        <td>Partij </td>
+        <td>Afk. </td>
+        <td>Aantal </td>
+        <td>% </td>
+        <td>+/- </td>
+        <td>Zetels </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Katholieke Volkspartij </td>
+        <td>KVP </td>
+        <td>1466582</td>
+        <td>30,81%</td>
+        <td>1,96%</td>
+        <td>32</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Partij van de Arbeid </td>
+        <td>PvdA </td>
+        <td>1347940</td>
+        <td>28,31%</td>
+        <td>-1,63%</td>
+        <td>29</td>
+        <td>-2</td>
+    </tr>
+    <tr>
+        <td>Anti-Revolutionaire Partij </td>
+        <td>ARP </td>
+        <td>614201</td>
+        <td>12,90%</td>
+        <td>-3,50%</td>
+        <td>13</td>
+        <td>-4</td>
+    </tr>
+    <tr>
+        <td>Communistische Partij van Nederland </td>
+        <td>CPN </td>
+        <td>502963</td>
+        <td>10,56%</td>
+        <td>7,21%</td>
+        <td>10</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Christelijk-Historische Unie </td>
+        <td>CHU </td>
+        <td>373217</td>
+        <td>7,84%</td>
+        <td>0,38%</td>
+        <td>8</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Partij van de Vrijheid </td>
+        <td>PvdV </td>
+        <td>305287</td>
+        <td>6,41%</td>
+        <td>2,46%</td>
+        <td>6</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Staatkundig Gereformeerde Partij </td>
+        <td>SGP </td>
+        <td>101759</td>
+        <td>2,14%</td>
+        <td>0,20%</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Protestantse Unie </td>
+        <td>PU </td>
+        <td>32020</td>
+        <td>0,67%</td>
+        <td>0,07%</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Nederlandse Bellamy Partij </td>
+        <td>Bellamy </td>
+        <td>11205</td>
+        <td>0,24%</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Lijst-Lopes </td>
+        <td>Lopes </td>
+        <td>5537</td>
+        <td>0,12%</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Totaal geldige stemmen </td>
+        <td></td>
+        <td>4760711</td>
+        <td></td>
+        <td></td>
+        <td>100</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Ongeldige stemmen/ % uitgebr.stemmen</td>
+        <td></td>
+        <td>151304</td>
+        <td>3,08%</td>
+        <td>-0,59%</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Uitgebrachte stemmen/Opkomst </td>
+        <td></td>
+        <td>4912015</td>
+        <td>93,10%</td>
+        <td>-1,30%</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kiesgerechtigd </td>
+        <td></td>
+        <td>5275888</td>
+        <td></td>
+        <td>18,22%</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kiesdeler </td>
+        <td></td>
+        <td>47607,11</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+Uiteraard, deze 10 veroorzaken op zich geen opzien, aangezien ze netjes aan de leiband lopen. Twee haal ik er tussenuit: 
+1. Bellamy Partij
+2. Lijst Lopes.
+
+### De Bellamy party, 
+
+gegrondvest in Groningen op ideeën die Eduard Bellamy beschreef in zijn fitieve verhalen en novellen, heeft een aantal interesante punten die het vermelden waard zijn, mede om de omgeving beter in beeld te brengen, aangezien, los van de CPN, de andere 7 min of meer in het gareel van het systeem lopen: 
+1. gelijkheid obv samenwerking
+2. afschaffing van het geld
+3. De bevolking heeft de leiding over het land.
+
+Maar, hoe dat er dan weer zou uitzien? De observatie hier is dat men twee klassen ziet: zij die alles "produceren" maar niet de vruchten ervan genieten, en zij die alle vruchten genieten, doch niets produceren.
+
+Echter hij zag het wel zitten om, net zoals militaire dienstplicht vervuld wordt en vanuit die positie allerlei werken worden uitgevoerd, dit in sociale zin te doen. Je zou kunnen zeggen dat dit in Nederland beter bekend is onder de noemer: sociale dienstplicht. Maar het is wel duidelijk te zien dat het hier dus om een variatie op het thema: top-down authoritarianisme en centrale planning gaat, zoals dit bij de Communisten zichtbaar is.
+
+### Lijst Lopes
+
+Leo Rodrigues Lopes<sup class="footnote-ref" id="3"><a rel="footnote" href="#A3">3</a></sup> was een joodse journalist en kreeg al gauw in de smiezen dat het naoorlogs van geen kanten klopte. Zijn voornaamste voorwerp van kritiek was het beleid van de in London gevestigde regering ten aanzien van de jodenvervolging en dan met name het logistieke aspect. Het door hem uitgegaven krantje had een lezersbereik van 6000 in and rond Amsterdam. Uiteindelijk is hij overleden aan een hartaanval op de fiets, onderweg van een ruzie met een AMsterrdamse Ambtenaar, klaarblijkelijk over de liefde, en aangifte doen bij de politie.
+
+Zijn levensverhaal zelf is een toonbeeld van de ongemakkelijke relatie en de vieze spelletjes die op verzoek van de regering worden uitgevoerd:
+1. Hij werkt voor de geallieerden in lissabon, doch wordt geinterneerd op het Island of Man, op verzoek van het Koninkrijk.
+2. Hij wordt in 1945 na de overgave, terug gestuurd naar Nederland, daar gearresteerd en geinterneerd in Vught, waar hij mag verblijven tussen leden van de NSB, SD, en andere figuren die het op de in Amsterdam levende joodse gemeenschap hadden voorzien. 
+
+En zoals we ook zien bij de Februari staking, of het leven van Hannie Schaft bekijken, de werkelijke verzetshelden zaten niet aan de Koninklijke kant, maar aan de andere, anti-koninklijke kant: Over het algmeen extreme anti institutionele Communisten en Socialisten.[zie Februari staking 1941]
+
+Hierbij moet aangetekent worden dat er grote vrees was dat Nederland ten prooi zou vallen aan een communistische coup.Gelet op het feit dast zowel voor de oorlog, als erna de PvdA grote invloed heeft, maakt mij duidelijk dat deze balanceer daad van belang was om de Commies de wind uit de zeilen te nemen: co-opeteren, overnemen, van richting laten veranderen. 
+
+## Verder onderzoek:
+
+Er wordt verder onderzoek gedaan naar de wijze waarop is vastgesteld welke partijen mee mochten doen. Immers, dat bepaald hoeveel vrije keuze er werkelijk was. Hierbij spelen de diverse geheime diensten een grote rol, maar ook wat beschouwd werd als staatsvijandelijk of ongewenst. 
+
+Verwoestingen. Veeal krijgt de Bezetter de schuld. Echter, Geallieerden hebben ook veel kappot gemaakt: Zeeuwse Dijken, Rotterdam, Groningen, Arnhem, Nijmegen. Saillant detail: relocatie van de Arnhemse bevolking. Dit moesten ze doen als gevolg van de landkrijgsordening. Alleen, de negatieve vorm van schrijven in de boekjes lijkt het alsof het een kwestie van roven was. Propaganda voor de NL Bühne. 
+
+voorbeeld<sup class="footnote-ref" id="4"><a rel="footnote" href="#A4">4</a></sup>:
+
+<div style="display: block; margin: auto">
+    <img src="/assets/timeline/tl-00010.png" alt="allied bombings Rotterdam">
+</div>
+
+Wanneer derhalve het beeld van de Duitse Bombardementen wordt getoond, dan is dit het idee: 
+
+<div style="display: block; margin: auto">
+    <img src="/assets/timeline/tl-00011.jpg" alt="German bombings Rotterdam">
+</div>
+
+Dit veroorzaakt een beeld die buiten beschouwing laat, wat de rol is geweest van Bomber Command. Het toont ook dat de toerekening van de kosten van de herstel werkzaamheden onderworpen is aan een propaganda/ politieke ponerlogie.
+
+Het NIOD, het Nederlandse Instituut voor Oorlogs Documentatie<sup class="footnote-ref" id="5"><a rel="footnote" href="#A5">5</a></sup>, geeft twee lijsten: Een Duitse Bombardementen Lijst en een Gealllieerde: 
+
+
+    - Luftwaffe, 11 May 1940: Amsterdam, Blauwburgwal, 44 deaths. Target unknown, a German plane hit by anti-aircraft fire may have dropped its bombs indiscriminately.
+    - Luftwaffe, 11 May 1940: Zevenbergen and Zevenbergschen Hoek, 36 deaths. It is likely that the Dutch and French troops in the area were the intended targets. 
+    - Luftwaffe, 11 May 1940: Alblasserdam, 28 deaths. Target were the Dutch troops entrenched around the traffic bridge across the North.
+    - Luftwaffe, 14 May 1940: Rotterdam, inner city, 650-900 deaths. Initially an intended target, <b>but it had been cancelled</b>.
+    - Luftwaffe, 14 May 1940: Den Helder, 28 deaths. Target unknown.
+    - Luftwaffe, 17 May 1940: Middelburg, town centre, 22 deaths. Intended target. Nowadays, it is doubted whether the city fell victim to a major air raid. It is possible that some aircraft bombs were dropped over Middelburg, but most of the damage was probably caused by German artillery shelling on the ground. 
+    - Luftwaffe, 19-20 September 1944: Eindhoven, city, 180-227 deaths. Probably the intended target; a carelessly executed attack on transport targets and lines of communication.
+    - Luftwaffe, 2 October 1944: Nijmegen, Waal Bridge area, 93 deaths. ‘Collateral damage’ (the bridge across the Waal was the intended target).
+
+En een Geallieerde lijst: 
+
+
+     - RAF, 24-25 June 1940: Den Helder, 38 deaths
+    Intended target (harbour area), considerable ‘collateral damage’
+    - RAF, 3-4 October 1941: Rotterdam, 106-130 deaths
+    Intended target (harbour area), considerable ‘collateral damage’
+    - RAF, 28-29 January 1942: Rotterdam/Schiedam, 71 deaths
+    Intended target (harbour area), considerable ‘collateral damage’
+    - RAF, 5-6 October 1942: Geleen, 83 deaths
+    Mistake bombing (the German city of Aachen was the intended target)
+    - RAF, 6 December 1942: Eindhoven, 138 deaths
+    Intended target (Philips factory area), considerable ‘collateral damage’
+    - RAF, 19 February 1943: Den Helder, 50 deaths
+    Intended target (naval dockyard), considerable ‘collateral damage’
+    - USAAF, 31 March 1943: Rotterdam, Tussendijken,about 400 deaths
+    Intended target (harbour area), considerable ‘collateral damage’ due to strong winds
+    - RAF, 16 April 1943: Haarlem, 85 deaths
+    Intended target (railway workshops), but most of the bombs hit a densely populated residential quarter
+    - USAAF, 17 July 1943: Amsterdam-Noord, 158-185 deaths
+    Unintended outcome; the intended target, the Fokker aircraft factory, was not hit
+    - USAAF, 10 oktober 1943: Enschede, 151 deaths
+    Mistake bombing (they were looking for a German city as ‘target of opportunity’)
+    - USAAF, 22 February 1944: Nijmegen, close to 800 deaths
+    Mistake bombing (the intended targets were the German towns of Kleve and Goch)
+    - USAAF, 22 February 1944: Arnhem, 60 deaths
+    Mistake bombing (the intended targets were the German towns of Kleve and Goch)
+    - USAAF, 22 February 1944: Enschede, industrial quarter, 40 deaths
+    Mistake bombing (the intended target was the German city of Münster)
+    - RAF, 11 April 1944: The Hague, Huize Kleykamp, about 60 deaths
+    Intended target (population register)
+    - USAAF, 31 May 1944: Roosendaal, railway station area, 73 deaths
+    Intended target (railway yard), but most of the bombs missed the target
+    - USAAF, 18 August 1944: Maastricht, residential area, 91 deaths
+    Unintended outcome; the intended target, the bridge across the Maas, remained largely intact
+    - RAF, 11 September 1944: Breskens, harbour area, 199 deaths
+    Intended target (the harbour), considerable ‘collateral damage’
+    - USAAF, 17 September 1944: Wolfheze, mental institution/village, 87 deaths
+    Intended target (German artillery positions), considerable ‘collateral damage’
+    - RAF, 17 September 1944: Ede, 80 deaths
+    Intended target (German barracks), considerable ‘collateral damage’
+    - RAF, 17 September 1944: Biggekerke, 46-50 deaths
+    Intended target (German artillery positions), considerable ‘collateral damage’
+    - USAAF, 17 September 1944: Wageningen, ‘de Sahara’ residential quarter, about 40 deaths
+    Unintended outcome; the intended target was the German anti-aircraft artillery at the Lexkesveer
+    - RAF, 2 October 1944: Huissen, 99-106 deaths
+    Intended target (German troops), considerable ‘collateral damage’
+    - RAF, 3 October 1944: Westkapelle, seawall, about 150 deaths
+    Intended target (the seawall), considerable ‘collateral damage’
+    - USAAF, 6 October 1944: Hengelo,about 100 deaths
+    Unintended outcome; the intended target, the shunting-yards, were hardly hit
+    - USAAF, 12 oktober 1944: Venray, at least 50 deaths
+    Likely target (tactical targets)
+    - RAF, 13 October 1944: Utrecht, station area, about 50 deaths
+    Intended target (railway yard), considerable ‘collateral damage’
+    - USAAF, 13 October 1944: Venlo, at least 40 deaths
+    Intended target (the road and rail bridges, which sustained minor damage), considerable ‘collateral damage’
+    - RAF, 14 October 1944: Zutphen, residential area near the river IJssel, 73 deaths
+    Intended target (bridge across the IJssel), considerable ‘collateral damage’
+    - RAF, 24 October 1944: Dordrecht, park Merwestein, 52-69 deaths
+    Intended target (German headquarters), considerable ‘collateral damage’
+    - RAF, 3 November 1944: Venlo, about 40 deaths
+    Intended target (the road and rail bridges, which sustained minor damage), considerable ‘collateral damage’
+    - RAF, 26 November 1944: Amsterdam, Euterpestraat, more than 50 deaths
+    Intended target (SD Headquarters), considerable ‘collateral damage’
+    - RAF, 29 November 1944: Rotterdam, Mathenesserstraat/Heemraadsingel area, 45-64 deaths
+    Unintended outcome; the intended target, the SD Dienststelle, sustained only extensive air pressure damage
+    - RAF, 11 December 1944: Leiden, station district, 54 deaths
+    Intended target (central station), considerable ‘collateral damage’
+    - RAF, 21-22 January 1945: Montfort (Limburg), 183 deaths
+    Intended target (German communication lines)
+    - RAF, 3 March 1945 The Hague, Bezuidenhout, at least 520 deaths
+    Unintended outcome; the intended target was a V-2 warehouse in the woods of the Haagse Bos.
+    - RAF, 21 March 1945: Doetinchem, more than 100 deaths. Probably bombed by mistake
+    - USAAF, 22 March 1945: Enschede, 65 deaths
+    Probably the intended target (tactical targets), considerable ‘collateral damage’
+    - USAAF, 22 March 1945: Nijverdal, town centre, 72 deaths
+    Probably the intended target (tactical targets), considerable ‘collateral damage’
+    - USAAF, 24 March 1945: Goor, town centre, 82 deaths
+    Probably the intended target (tactical targets), considerable ‘collateral damage’
+    - USAAF, 24 March 1945: Haaksbergen, town centre, 50-75 deaths
+    Probably the intended target (tactical targets), considerable ‘collateral damage’
+
+Deze lijst is nauwelijks volledig. Het toont wel aan dat de heersende gedachte omtrent deze kwestie, anders ligt dan in de historische herinnering.
+
+Hetzelfde kan gezegd worden omtrent de "honger-winter" van 1944/1945. Met name in Holland, i.e. Vesting Holland, was het nijpend. De reden? Enerzijds omdat Holland zelf in een vesting was veranderd, anderzijds omdat de totale logistiek in Nederland was plat gelegd. Dit maakte het noodzakelijk dat er voeddsel gebracht zou worden. En dit is in April van 1945 in Achterberg afgesproken. 
+
+Majoor Joris A.C. van Esch schrijft in zijn studie met de titel: Restrained Policy and Careless Execution: Allied Strategic Bombing on the Netherlands in the second world war<sup class="footnote-ref" id="6"><a rel="footnote" href="#A6">6</a></sup>:
+>Further, it reveals the absolute magnitude of the bombing campaign on the Netherlands, which contrasts with existing history. [..] These failures in execution caused extensive collateral damage, as illustrated by three case studies in this monograph, bombardments on Amsterdam, Nijmegen and THe Hague.
+
+In dit verband is het interessant eens te luisteren naar wat Freeman Dyson te vertellen heeft, geinterviews door Wim Kayser voor zijn boek: een Schitterend ongeluk<sup class="footnote-ref" id="7"><a rel="footnote" href="#A7">7</a></sup>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.njb.nl/media/4700/njb16_militair-gezag-en-rechtsherstel-1944-1945.pdf">Militair bestuur 1944-1945; Corjo Jansen, Hoogleraar Rechtsgeschiedenis en Burgerlijk recht aan de Radboud Universiteit in Nijmegen.</a></cite><a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.nationaalarchief.nl/onderzoeken/archief/2.13.25/download/pdf">Militair bestuur 1944-1945: Nationaal Archief.</a></cite><a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A3">3.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.museumengelandvaarders.nl/blog/leo-rodrigues-lopes/">Korte bio van Leo R. Lopes.</a></cite><a style="color: orange;" class="footnote-return" href="#3">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A4">4.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/figure/Map-of-Allied-bombardments-on-Rotterdam-from-25-May-1940-to-21-February-1945-Photo-A_fig1_337206834">DOI:10.7227/HRV.5.2.6; November 2019; Human Remains and Violence An Interdisciplinary Journal 5(2):72-90; Antonius C. G. M. Robben Utrecht University.</a></cite><a style="color: orange;" class="footnote-return" href="#4">&#32;&#8617;</a>
+</div>
+
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A5">5.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://www.niod.nl/en/frequently-asked-questions/german-and-allied-bombing-raids-netherlands-numbers">Bombardementen lijst</a></cite><a style="color: orange;" class="footnote-return" href="#5">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A6">6.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/DTIC_ADA545115">Restrained Policy and Careless Execution: Allied Strategic Bombing on the Netherlands in the second world war; Majoor JAC van Esch; School of Advanced Military Studies, United States Army Command and General Staff Colege, Fort Leavenworth; AY2011</a></cite><a style="color: orange;" class="footnote-return" href="#6">&#32;&#8617;</a>
+</div>
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A7">7.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://youtu.be/EBjVHLBEsHI">A Glorious Accident (5 of 7) Freeman Dyson: In praise of diversity</a></cite><a style="color: orange;" class="footnote-return" href="#7">&#32;&#8617;</a>
+</div>

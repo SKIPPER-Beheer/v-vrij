@@ -5,9 +5,9 @@ subtitle: ""
 active: "journal"
 date: "2024-05-07"
 category:
-    psychologie
+    - psychologie
 tags:
-   mens
+   - mens
 image:
   feature: bpc00019.jpg
 header-img: "img/postcover/bpc00019.jpg"

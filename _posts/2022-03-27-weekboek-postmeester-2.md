@@ -1,0 +1,26 @@
+---
+layout: "post"
+title: "WEEKBOEK VAN EEN POSTMEESTER-2"
+subtitle: ""
+active: "journal"
+date: "2022-03-27"
+category:
+    - p.-s.-g.
+    - postmeester
+tags: 
+    - mens
+    - vrijheid
+image:
+  feature: bpc00014.jpg
+header-img: "img/postcover/bpc00014.jpg"
+comments: "false"
+---
+<p>Afgelopen weken was ik er even tussenuit om even tot rust te komen. Gelet op de perikelen die spelen in de wereld vanuit het hele verhaal van de Parsé-Syntax-Grammar methodiek, wat de basis is voor contracten en andersoortige documenten binnen de rechtspraak. In de afgelopen maanden heb ik heel veel lezingen gegeven over deze Syntax-Grammar, waarbij het zwaartepunt altijd lag op het geven van de inzichten en de context en toepasbaarheid van PSG. Een ieder is vrij om dat te doen.</p>
+
+<p>Gaat het om het geautoriseerd inhoudelijk les mogen geven, dan is daar de toestemming voor nodig van de eigenaar dan wel de bedenker ervan: David-Wynn: Miller. Zijn opvatting die ik zelf ook al altijd hanteer, is dat – in gelijke trend van de vrije energie van Nikola Tesla – dat uitvindingen voor iedereen bereikbaar dienen te zijn; voor het welzijn van de wereld. Echter dat anderen dan de eigenaar van de ontdekking of uitvinding dan wel Copy-Right-claims neerleggen naar anderen en ons toe ten aanzien van het gebruik en integraal bezien de uitleg erover aan anderen is volledig tegen de materie en de berichten van David-Wynn: Miller zelf; die heeft het immers zelf vrijgegeven. Het tegenhouden op basis van een nieuw eigenaarschap over Parsé-Syntax-Grammar is uiteraard onmogelijk; dat kan hooguit over de vernieuwingen gaan die eraan toegevoegd worden. Tot dusver heb ik alles via David-Wynn: Miller geleerd en de rest als een autodidacticus zelf, waarmee ik mijn eigen eigenaarschap bouw en ontwikkel aangaande dergelijke materie; NIEMAND heeft recht dat te verhinderen, tenzij er daadwerkelijk het Copy Right wordt overtreden. Ik schrijf in het Nederlands dus dat is 1 op 1 buitengesloten. Voorts geldt er de vrijheid van het quoten; alles mag van anderen vrij gequoted worden, mits de bronvermelding erbij staat. Ook hier voldoe ik volledig aan wat men in algehele zin correct acht. Zeker als de eigenaar (DWM) dit publiekelijk heeft gezegd. Indien dat gewijzigd zou zijn, betekent dit dat alle seminars van David-Wynn: Miller tevens verwijderd hadden moeten worden; ze zijn en blijven echter gewoon beschikbaar.</p>
+
+<p>Wat mij dus als een postmeester overkomen is, dat doordat men nalaat vragen te stellen, zelf conclusies trekt over vermeende autorisaties dan wel het feitelijk lesgeven van Syntax Grammar er postmeesters zijn die mij vervolgens een Amicus Curiae sturen; geheel uit United Kingdom, van iemand die ik NIET ken; dus zonder de menselijke interactie of anders. Althans ik vermoed dat het over deze autorisatie gaat. Wie kan beter de Nederlandse Syntax Grammar les geven dan een Nederlander zelf? Waar is het contractuele verbod dat dit namens de vermeende ‘nieuwe’ eigenaar: Russell-Jay: Gould buitengesloten zou zijn? Mij is het nooit aangeboden door RJG zelf ondanks dat het in de CotL vermeld staat; er is niets kenbaar gemaakt in de aanvraagfase over dergelijke mogelijk actuele Copy Rights. Dat ligt natuurlijk ook aan mijzelf. Dus wil ik het kwaad; dan vorder ik inzage in dit Copy Right document van RJG die hij vanuit de correctheid verplicht is te tonen. Gelet op de gehele tekstuele ramp heb ik het document ‘gered’ – zie het plaatje bovenaan. Het lag ongevraagd op mijn deurmat, terwijl er op de sticker duidelijk staat dat er bij ontvangst ‘gesigneerd’ dient te worden door de ontvanger. Ik ben iemand anders dan WiLLiam, Ik verblijf op de ~PINKSTERBLOEM-~31. Met de postale code: <code class="language-plaintext highlighter-rouge">[8081 DE]</code> in plaats van zonder deze <code class="language-plaintext highlighter-rouge">en</code>. Is het in ELBURG en in NETHERLANDS of zijn de tildes hier opeens overbodig? Deze postmeester weet zelf niet waar hij woont; is het Chichester (kleine en grote letters) of is het Chicester (kleine en grote letters) zonder opeens de h? Ook lijkt deze postmeester moeite te hebben om zonder de onderlijningen netjes rechtuit te schrijven; er is sprake van overbodige onderlijningen in alles wat geschreven staat.</p>
+
+<p>Het moge duidelijk zijn wat hier dient te gebeuren; deze postmeester corrigeren op diens enorme mate mate van chaotische schrijfwijze; nog ongeacht wat de boodschap van het document is, die in deze enveloppe zit. Zoals het sterke vermoeden is dit een postmeester die vergeet wat autorisatie is; de bemoeienis met andermans contracten tussen mij Russell-Jay: Gould en mij. Iemand die mij meent de les te lezen, maar uitblinkt in schrijffouten en in het toepassen van de Postmaster Mechanics. Hij mag een Salvage Claim van mij tegemoet zien en de kosten voor opslag en communicatie hierover. Als dit correctheid zou moeten voorstellen, dan hebben vele postmeesters nog een lange weg te gaan.</p>
+
+<p>Deze postmeester is de verwezenlijking van volggedrag op basis van geruchten uit de markt waarbij liever ‘stoer’ een mogelijk corrigerende brief wordt gezonden dan eerst fatsoenlijk onderzoek te doen. Deze persoon is een enorme schande voor het Postmeesterschap, zoals hij zich nu gepresenteerd heeft, dat voor nu. Ik houd jullie op de hoogte.</p>

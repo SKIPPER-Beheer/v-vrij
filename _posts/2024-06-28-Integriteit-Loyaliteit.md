@@ -5,11 +5,11 @@ subtitle: "Een valse oplosbare dichotomie"
 active: "journal"
 date: "2024-06-28"
 category:
-    p.-s.-g.
-    psychologie
+    - p.-s.-g.
+    - psychologie
     
 tags:
-   mens
+   - mens
 image:
   feature: bpc00005.jpg
 header-img: "img/postcover/bpc00005.jpg"

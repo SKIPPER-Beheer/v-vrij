@@ -5,12 +5,12 @@ subtitle: "Aanvulling op een interview"
 active: "journal"
 date: "2024-12-21"
 category:
-    geschiedenis
+     - geschiedenis
 tags:
-    vrijheid
-    dienstbaarheid
-    staat-der-nederlanden
-    belasting
+    - vrijheid
+    - dienstbaarheid
+    - staat-der-nederlanden
+    - belasting
     
 image:
   feature: bpc00059.jpg

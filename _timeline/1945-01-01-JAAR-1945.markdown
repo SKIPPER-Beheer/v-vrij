@@ -1,0 +1,93 @@
+---
+layout: timeline-entry
+title: ": Laatste oorlogjaar en een vervolg:"
+year: 1945
+image: "/timeline/assets/tl-00041.jpg"
+header-img: "/timeline/assets/tl-00041.jpg"
+post_url: "/timeline/YEAR-1945"
+abstract: "Op 30 april wordt het bericht verspreid dat Adolf Hitler zelfmoord gepleegd zou hebben. 1 Mei treedt Admiraal Dönitz aan als regeringsleider/staatshoofd van het Duitse Rijk. Op 8 mei 1945 is de onvoorwaardelijke overgave van het Duitse leger een feit. In Duitsland zelf draait de lokale regering tot juni, waarbij het staatshoofd door de Britten in verzekerde bewaring wordt gesteld, daarmee onmogelijk makend dat de regering effectief kan handelen. In Nederland wordt het naoorlogse Kabinet opgeszet door veroveraarster: Wilhelmina, nog steeds nominaal Koningin van de Koloniën. Seys inquart's rol en toekomst is duister."
+---
+
+<p>Op 30 april wordt het bericht verspreid dat Adolf Hitler zelfmoord gepleegd zou hebben. 1 Mei treed Admiraal Dönitz aan als regeringsleider/staatshoofd van het Duitse Rijk. Op 7/8 mei 1945 is de onvoorwaardelijke overgave van het Duitse leger een feit. In Duitsland zelf draait de lokale regering tot juni, waarbij het staatshoofd door de Britten in verzekerde bewaring wordt gesteld, daarmee onmogelijk makend dat de regering effectief kan handelen. In Nederland wordt het naoorlogse Kabinet opgeszet door veroveraarster: Wilhelmina, nog steeds nominaal Koningin van de Koloniën. Seys inquart's rol en toekomst is duister.</p>
+
+De toespraak van 1 mei van Dönitz is [hier](https://archive.org/details/01.-mai-1945-grossadmiral-karl-donitz-rede-an-das-deutsche-volk) te beluisteren. 
+
+
+April 1945: Achterberg: Voedsel droppen: United Nations-Personnel [sic].
+Feitelijk waren er 4 praktische vraagstukken voor de geallieerden:
+1. Operation Market Garden faalde, en de vraag was, hoe nu verder?
+2. Holland, wat al voor de oorlog een "Vesting Holland was", denk waterlinie, was in termen van geografrie en infrastructuur niet eenvoudig te zuiveren van de "Duitse bezetter".
+3. Hoewel er grote behoefte was aan voedsel, was de logistieke status in Nederland minimaal als gevolg van: Borbardementen door de Geallieerden, oproepen van Radio Oranje NIET met de bezetter mee te werken om de aardappel oogst binnen te halen, en diverse treinstakingen en vervoersstakingen door "het verzet". 
+4. Communicatie
+
+Het document: Crossing the Greebe Line<sup class="footnote-ref" id="1"><a rel="footnote" href="#A1">1</a></sup>, welke bespreekt hoe de Canadezen en Britten met Vesting Holland omgingen, verhaalt: 
+>Further, some British directives impeded potential internal solutions to the food crisis. On 19 October, Radio Oranje, a BBC broadcast directed at
+the occupied Netherlands, urged against working with the occupier to help with the potato harvest that had stalled due to labour strikes following Market Garden. 
+
+Om een inkijkje in de werkelijke cijfers te krijgen: Er waren zo'n 20.000 mensen nodig om de oogste binnen te halen. 2240 melden zich om dat te doen. 
+10%. De hoeveelheid die geoogst werd, zal belist navenant zijn geweest. Seys Inquart merkte nog op in een radiotoespraak dat het een lastige kwestie zou worden. 
+
+Een raad van vertrouwde mannen, een cladestine groep die contacten onderhield met de regering in ballangischap te London enerzijds en de Rijkscommissaris anderzijds, zag de berichten die ze stuurden verdwijnen in de Moloch van de administratieve rompslomp, en het politiek vliegen afvangen, met als gevolg dat er GEEN directe onderhandelingen met Seys Inquart gingen plaatsvinden. Had dat in december van '44 wel plaatsgevonden, had de "honger winter" vermeden kunnen worden. 
+
+Ook op dit dossier is te zien, dat de herinnering aan de belevenis gekleurd is, en de werkelijkheid net even anders. Niet tegenstaande dat, uiteindelijk kwamen er inderdaad in April 1945 onderhandelingen te Achterberg. Om aan te geven dat dit niet zonder rancune gebeurde, is deze onderstaande foto: de auto van Seys Inquart in beslag genomen en door Bernhard zelf gebruikt. 
+
+<div style="display: block; margin:auto">
+    <img src="/assets/timeline/tl-00013.jpg" alt="Kijk eens: ik rij in jouw auto.">
+</div>
+
+Met name Churchil lag nogal dwars. Uiteindelijk is de resultante, om maar niet de zwarte Piet bij onze dronken Brit neer te leggen de volgende, nadat opgemerkt is dat alle intelligence report waren dat het Duitse Rijk niet de logistieke capaciteit meer had voedsel aan te voeren, omdat Holland afgesneden was van de noordelijke en oostelijke provincies (voedsel bronnen):
+>Rather than being purely informed by humanitarian good will, it is a conceivable conclusion that the Allies simply wanted to proactively address a potentially massive strain on organizational capacity if Allied troops had to immediately treat an catastrophe upon gaining access to the occupied area
+
+Het komt me niet onlogisch voor. Dit was al eerder gebeurd: In Frankrijk met de toewijzing van brandstof, waardoor Patton's 5th Army stil kwam te staan met als gevolg:"Battle of the Bulge" en onmogelijkheid om bij Saarbrücken door te breken dieper Duitsland in. En uiteraard het gevolg van Montgommery's speeltuin: Operation Market Garden, dat met een Saarbrücken doorbraak min of meer als plan naar het ronde archief verwezen zou kunnen worden, 
+
+Zoals het heet: certain niceties between allies have to be observed.
+
+Slepen met Seys Inquart. Deal gemaakt?
+
+Mei 1945: Instrument te Arnhem getekent is waardeloos.Fake. Publiciteitsstunt.
+Duitse troepen tot in juni op Nederlandse Bodem; Opstand van Georgische troepen; Geloof in de discipline van de Duitse troepen: i.e. zelf-deportatie; Eisenhower's zwarte bladzijde.
+
+Verder uitwerken mbv Control Authority Papers. Control Authority = SHAEF in Germany within the borders of 31-12-1937.
+Dus niet: NL, Oostenrijk, Sudentenland, Poolse Corridor.
+Notitie: De oostenrijkers zijn dus geen "Glechschaltung" (1934) "Deutsche (Derde Rijk) Staatsangehörige", waarbij Landesdeutscher, Reichsdeutscher werden, als gevolg van de SHAEF wetgeving. De Duitse volken echter, zijn daar nog steeds onder. 
+- Staatsaangehorigheid baseert zich op 
+    + de grondwet van 1913: Mittelbaar = landsduitser + "unmittelbaar" Rijksduitser (kolonaal Duitser)
+    + Vrede van Versailles: Artikel 278: 
+    >Deutschland verpflichtet sich, die neue Staatsangehörigkeit, die von seinen Angehörigen gemäß den Gesetzen der alliierten und assoziierten Mächte und gemäß den Entscheidungen der zuständigen Behörden dieser Mächte, sei es auf dem Wege der Einbürgerung, sei es auf Grund einer Vertragsbestimmung etwa erworben ist oder erworben wird, anzuerkennen und auf Grund der neuerworbenen Staatsangehörigkeit dieses Reichsangehörigen in jeder Richtung von jeder Pflicht gegenüber ihrem Heimatstaate zu entbinden.
+    + Grondwet van 1919, welke veranderd moest worden agv: abdicatie en nationaliteitsvraagstukken.
+    + Gleichschaltung 1934 = Alleen nog Rijksduitser (=koloniaal Duitser i.e. los van de grond)
+    + Bondsdtuiser = Rijksduitser omdat Deutsches Reich niet onder is gegaan in 1945: (https://openjur.de/u/2461088.html) Uitspraak gerecht/ [Bondsregering](https://leak6.de/yt-reuploads/2015-06-30%20bundestag.de-webarchiv-380964-38-Reichsb%C3%BCrger+Deutsches_Reich.pdf)
+    >Das Bundesverfassungsgericht 1973 (Aktenzeichen 2 BvF 1/73) stellt fest: "Es wird daran festgehalten (zum Beispiel BVerfG, 1956-08-17, 1 BvB 2/51, BVerfGE 5, 85 <126>), daß das Deutsche Reich den Zusammenbruch 1945 überdauert hat und weder mit der Kapitulation noch durch die Ausübung fremder Staatsgewalt in Deutschland durch die Alliierten noch später untergegangen ist; es besitzt nach wie vor Rechtsfähigkeit, ist allerdings als Gesamtstaat mangels Organisation nicht handlungsfähig. Die BRD ist nicht 'Rechtsnachfolger' des Deutschen Reiches, sondern als Staat identisch mit dem Staat "Deutsches Reich", – in bezug auf seine räumliche Ausdehnung allerdings 'teilidentisch'."
+    
+    + Volkenrechtelijk subject = Deutes Reich. Echter, BRD is een NGO: Niet-Goevernmentele Organisatie welke "gelijkgesteld wordt met", dus niet hetzelfde. 
+        > Carlo Schmidt: Wir haben nicht die Verfassung Deutschlands oder Westdeutschlands zu machen. Wir haben keinen Staat zu errichten Wir haben etwas zu schaffen, das uns die Möglichkeit gibt, gewisser Verhältnisse Herr zu werden, besser Herr zu werden, als wir das bisher konnten. Auch <b>ein Staatsfragment</b> muß eine Organisation haben, die geeignet ist, den praktischen Bedürfnissen der inneren Ordnung eines Gebietes gerecht zu werden. Auch ein Staatsfragment braucht eine Legislative, braucht eine Exekutive und braucht eine Gerichtsbarkeit. 
+    
+        >Wenn man nun fragt, wo dann die Grenze gegenüber dem Voll-Staat, gegenüber der Vollverfassung liege: Nun, das ist eine Frage der praktischen Beurteilung im Einzelfall. Über folgende Gesichtspunkte aber sollte Einigkeit erzielt werden können. - [Rede des Abgeordneten Carlo Schmid im Parlamentarischen Rat, 8. September 1948 StenBer. S. 70ff - Abg. Dr. SCHMID, SPD](https://www.slpb.de/fileadmin/media/Themen/Geschichte/CSchmid_GG.pdf)
+
+    + Toepassinggebied van het Bundesgesetz werd in 1990 verwijderd bij de "eenwording". art 23 - BGB. 
+    + 2010: Bereiniging van het Bundesgrundgesetz van het 
+
+BDR + DDR = Treuhand. Samengaan: 1990 = Fusie van 2 economische organisaties: Wirtschaftsraum Vergröserung.
+2010: Grundgestetz Bereininung der Statsangehörigkeit: i.e. unmittelbare Reichsburger ist gestrichen. => BRD = Personalsausweiss = werknemers. Huidige Duitse "nationaliteit" = "DEUTSCH".  
+
+Kennis hiervan is zelfs tot in 70-tiger jaren door de SPD/CDU gebruikt. Nu heet het een Conspiracy Theory and Fake News (TM, C). 
+<div style="display:block; margin:auto">
+    <img src="/assets/timeline/tl-00014.jpg" alt="verkiezingplakaten 1953">
+</div>
+
+
+
+Speciale Positie Soviet Unie.  
+
+NL = veroverd gebied door vreemde mogendheden inclusief Koninkrijk der Nederlanden => vrije verkiezing zou afwijzing mogelijk zijn geweest. Opzetten regering civiel = opgelegd, niet van onder af gekomen. i.e. de veroveraar heeft zijn eigen mensen geparachuteerd. Zie Brief aan het volk van Nederland 1781. Zelfde patroon. 
+
+Juni Dönitz gevangen gezet. (Nuremberg Trials => volledig acquitted); => regering neit meer werkzaam. Zie verklaring Control Authority => noodzaak tot institutie van eigen regeringsvorm => transparant overlay op Duitse Rijk: huidige BondsRepubliek = Trust=Treuhand
+
+
+
+
+<div>
+    <a style="color: orange; font-size: smaller;" class="footnotes" id="A1">1.</a>
+    <cite style="font-size:0.8vw; color: silver; width:3vw;"><a target="_blank" rel="noopener noreferrer" href="https://rclsa-asrlc.org/wp-content/uploads/2022/12/Crossing-the-Grebbe-Line.pdf">Analysis Sheet, SCAF-250, SMC-IN 9439,” 27 March 1945, SHAEF files, G-5, ... Achterveld in order to ensure compliance with the ceasefire.</a></cite><a style="color: orange;" class="footnote-return" href="#1">&#32;&#8617;</a>
+</div>
+

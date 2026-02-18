@@ -5,11 +5,10 @@ subtitle: "Waar zit die doorkruising van het recht nu precies?"
 active: "journal"
 date: "2023-04-14"
 category:
-  recht
-  
+    - recht
 tags: 
-  vrijheid
-  staat-der-neederlanden
+    - vrijheid
+    - staat-der-nederlanden
 image:
   feature: bpc00036.jpg
 header-img: "img/postcover/bpc00036.jpg"

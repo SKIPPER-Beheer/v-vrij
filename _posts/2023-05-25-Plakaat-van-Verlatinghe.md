@@ -5,12 +5,11 @@ subtitle: "Van de Viering van het Plakaat"
 active: "journal"
 date: "2023-05-25"
 category:
-  recht
-  
+    - recht
 tags: 
-  vrijheid
-  mens
-  staat-der-neederlanden
+    - vrijheid
+    - mens
+    - staat-der-nederlanden
 image:
   feature: bpc00032.jpg
 header-img: "img/postcover/bpc00032.jpg"
